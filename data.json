@@ -1,0 +1,7310 @@
+{
+  "version": "2.0.0",
+  "levels": [
+    {
+      "dossier": 1,
+      "suspects": 3,
+      "culpritCount": 1,
+      "statementType": "mensonges",
+      "statementCount": "1",
+      "times": [
+        2,
+        4,
+        8
+      ],
+      "cases": [
+        {
+          "number": 1,
+          "testimonies": [
+            31,
+            2,
+            10
+          ],
+          "solution": [
+            3
+          ]
+        },
+        {
+          "number": 2,
+          "testimonies": [
+            31,
+            1,
+            7
+          ],
+          "solution": [
+            3
+          ]
+        },
+        {
+          "number": 3,
+          "testimonies": [
+            11,
+            4,
+            32
+          ],
+          "solution": [
+            3
+          ]
+        },
+        {
+          "number": 4,
+          "testimonies": [
+            2,
+            4,
+            3
+          ],
+          "solution": [
+            3
+          ]
+        },
+        {
+          "number": 5,
+          "testimonies": [
+            32,
+            31,
+            7
+          ],
+          "solution": [
+            3
+          ]
+        },
+        {
+          "number": 6,
+          "testimonies": [
+            28,
+            11,
+            7
+          ],
+          "solution": [
+            3
+          ]
+        },
+        {
+          "number": 7,
+          "testimonies": [
+            32,
+            11,
+            10
+          ],
+          "solution": [
+            2
+          ]
+        },
+        {
+          "number": 8,
+          "testimonies": [
+            32,
+            2,
+            1
+          ],
+          "solution": [
+            3
+          ]
+        },
+        {
+          "number": 9,
+          "testimonies": [
+            10,
+            11,
+            31
+          ],
+          "solution": [
+            3
+          ]
+        },
+        {
+          "number": 10,
+          "testimonies": [
+            4,
+            2,
+            32
+          ],
+          "solution": [
+            3
+          ]
+        },
+        {
+          "number": 11,
+          "testimonies": [
+            7,
+            2,
+            3
+          ],
+          "solution": [
+            3
+          ]
+        },
+        {
+          "number": 12,
+          "testimonies": [
+            10,
+            32,
+            31
+          ],
+          "solution": [
+            3
+          ]
+        },
+        {
+          "number": 13,
+          "testimonies": [
+            10,
+            4,
+            3
+          ],
+          "solution": [
+            1
+          ]
+        },
+        {
+          "number": 14,
+          "testimonies": [
+            7,
+            35,
+            1
+          ],
+          "solution": [
+            3
+          ]
+        },
+        {
+          "number": 15,
+          "testimonies": [
+            1,
+            11,
+            10
+          ],
+          "solution": [
+            1
+          ]
+        },
+        {
+          "number": 16,
+          "testimonies": [
+            4,
+            35,
+            7
+          ],
+          "solution": [
+            3
+          ]
+        },
+        {
+          "number": 17,
+          "testimonies": [
+            11,
+            35,
+            2
+          ],
+          "solution": [
+            2
+          ]
+        },
+        {
+          "number": 18,
+          "testimonies": [
+            11,
+            3,
+            7
+          ],
+          "solution": [
+            1
+          ]
+        },
+        {
+          "number": 19,
+          "testimonies": [
+            11,
+            4,
+            3
+          ],
+          "solution": [
+            3
+          ]
+        },
+        {
+          "number": 20,
+          "testimonies": [
+            29,
+            3,
+            10
+          ],
+          "solution": [
+            2
+          ]
+        },
+        {
+          "number": 21,
+          "testimonies": [
+            3,
+            2,
+            7
+          ],
+          "solution": [
+            1
+          ]
+        },
+        {
+          "number": 22,
+          "testimonies": [
+            29,
+            4,
+            7
+          ],
+          "solution": [
+            3
+          ]
+        },
+        {
+          "number": 23,
+          "testimonies": [
+            29,
+            2,
+            10
+          ],
+          "solution": [
+            2
+          ]
+        },
+        {
+          "number": 24,
+          "testimonies": [
+            28,
+            11,
+            3
+          ],
+          "solution": [
+            3
+          ]
+        },
+        {
+          "number": 25,
+          "testimonies": [
+            11,
+            3,
+            10
+          ],
+          "solution": [
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "dossier": 2,
+      "suspects": 3,
+      "culpritCount": 1,
+      "statementType": "verites",
+      "statementCount": "1",
+      "times": [
+        2,
+        4,
+        8
+      ],
+      "cases": [
+        {
+          "number": 1,
+          "testimonies": [
+            2,
+            1,
+            35
+          ],
+          "solution": [
+            3
+          ]
+        },
+        {
+          "number": 2,
+          "testimonies": [
+            4,
+            31,
+            24
+          ],
+          "solution": [
+            1
+          ]
+        },
+        {
+          "number": 3,
+          "testimonies": [
+            11,
+            2,
+            10
+          ],
+          "solution": [
+            2
+          ]
+        },
+        {
+          "number": 4,
+          "testimonies": [
+            24,
+            2,
+            31
+          ],
+          "solution": [
+            1
+          ]
+        },
+        {
+          "number": 5,
+          "testimonies": [
+            31,
+            28,
+            1
+          ],
+          "solution": [
+            1
+          ]
+        },
+        {
+          "number": 6,
+          "testimonies": [
+            35,
+            32,
+            29
+          ],
+          "solution": [
+            1
+          ]
+        },
+        {
+          "number": 7,
+          "testimonies": [
+            11,
+            26,
+            31
+          ],
+          "solution": [
+            3
+          ]
+        },
+        {
+          "number": 8,
+          "testimonies": [
+            29,
+            35,
+            24
+          ],
+          "solution": [
+            1
+          ]
+        },
+        {
+          "number": 9,
+          "testimonies": [
+            30,
+            11,
+            3
+          ],
+          "solution": [
+            2
+          ]
+        },
+        {
+          "number": 10,
+          "testimonies": [
+            2,
+            28,
+            35
+          ],
+          "solution": [
+            1
+          ]
+        },
+        {
+          "number": 11,
+          "testimonies": [
+            1,
+            30,
+            3
+          ],
+          "solution": [
+            3
+          ]
+        },
+        {
+          "number": 12,
+          "testimonies": [
+            10,
+            2,
+            19
+          ],
+          "solution": [
+            3
+          ]
+        },
+        {
+          "number": 13,
+          "testimonies": [
+            28,
+            33,
+            7
+          ],
+          "solution": [
+            2
+          ]
+        },
+        {
+          "number": 14,
+          "testimonies": [
+            28,
+            2,
+            1
+          ],
+          "solution": [
+            1
+          ]
+        },
+        {
+          "number": 15,
+          "testimonies": [
+            32,
+            1,
+            24
+          ],
+          "solution": [
+            1
+          ]
+        },
+        {
+          "number": 16,
+          "testimonies": [
+            11,
+            2,
+            24
+          ],
+          "solution": [
+            2
+          ]
+        },
+        {
+          "number": 17,
+          "testimonies": [
+            7,
+            32,
+            19
+          ],
+          "solution": [
+            3
+          ]
+        },
+        {
+          "number": 18,
+          "testimonies": [
+            33,
+            32,
+            10
+          ],
+          "solution": [
+            3
+          ]
+        },
+        {
+          "number": 19,
+          "testimonies": [
+            33,
+            2,
+            31
+          ],
+          "solution": [
+            2
+          ]
+        },
+        {
+          "number": 20,
+          "testimonies": [
+            10,
+            11,
+            30
+          ],
+          "solution": [
+            2
+          ]
+        },
+        {
+          "number": 21,
+          "testimonies": [
+            7,
+            33,
+            10
+          ],
+          "solution": [
+            2
+          ]
+        },
+        {
+          "number": 22,
+          "testimonies": [
+            10,
+            1,
+            26
+          ],
+          "solution": [
+            2
+          ]
+        },
+        {
+          "number": 23,
+          "testimonies": [
+            7,
+            26,
+            31
+          ],
+          "solution": [
+            2
+          ]
+        },
+        {
+          "number": 24,
+          "testimonies": [
+            31,
+            1,
+            32
+          ],
+          "solution": [
+            3
+          ]
+        },
+        {
+          "number": 25,
+          "testimonies": [
+            34,
+            11,
+            10
+          ],
+          "solution": [
+            2
+          ]
+        }
+      ]
+    },
+    {
+      "dossier": 3,
+      "suspects": 4,
+      "culpritCount": 1,
+      "statementType": "mensonges",
+      "statementCount": "1",
+      "times": [
+        2,
+        4,
+        8
+      ],
+      "cases": [
+        {
+          "number": 1,
+          "testimonies": [
+            4,
+            8,
+            37,
+            7
+          ],
+          "solution": [
+            1
+          ]
+        },
+        {
+          "number": 2,
+          "testimonies": [
+            35,
+            8,
+            3,
+            11
+          ],
+          "solution": [
+            2
+          ]
+        },
+        {
+          "number": 3,
+          "testimonies": [
+            8,
+            3,
+            37,
+            7
+          ],
+          "solution": [
+            3
+          ]
+        },
+        {
+          "number": 4,
+          "testimonies": [
+            2,
+            8,
+            34,
+            10
+          ],
+          "solution": [
+            3
+          ]
+        },
+        {
+          "number": 5,
+          "testimonies": [
+            11,
+            2,
+            10,
+            37
+          ],
+          "solution": [
+            4
+          ]
+        },
+        {
+          "number": 6,
+          "testimonies": [
+            30,
+            8,
+            31,
+            2
+          ],
+          "solution": [
+            1
+          ]
+        },
+        {
+          "number": 7,
+          "testimonies": [
+            20,
+            11,
+            2,
+            10
+          ],
+          "solution": [
+            2
+          ]
+        },
+        {
+          "number": 8,
+          "testimonies": [
+            8,
+            31,
+            7,
+            35
+          ],
+          "solution": [
+            3
+          ]
+        },
+        {
+          "number": 9,
+          "testimonies": [
+            7,
+            8,
+            19,
+            1
+          ],
+          "solution": [
+            1
+          ]
+        },
+        {
+          "number": 10,
+          "testimonies": [
+            32,
+            4,
+            10,
+            7
+          ],
+          "solution": [
+            4
+          ]
+        },
+        {
+          "number": 11,
+          "testimonies": [
+            20,
+            8,
+            1,
+            2
+          ],
+          "solution": [
+            2
+          ]
+        },
+        {
+          "number": 12,
+          "testimonies": [
+            11,
+            8,
+            10,
+            35
+          ],
+          "solution": [
+            2
+          ]
+        },
+        {
+          "number": 13,
+          "testimonies": [
+            2,
+            11,
+            7,
+            17
+          ],
+          "solution": [
+            4
+          ]
+        },
+        {
+          "number": 14,
+          "testimonies": [
+            7,
+            3,
+            8,
+            34
+          ],
+          "solution": [
+            3
+          ]
+        },
+        {
+          "number": 15,
+          "testimonies": [
+            7,
+            1,
+            2,
+            36
+          ],
+          "solution": [
+            1
+          ]
+        },
+        {
+          "number": 16,
+          "testimonies": [
+            32,
+            8,
+            31,
+            7
+          ],
+          "solution": [
+            3
+          ]
+        },
+        {
+          "number": 17,
+          "testimonies": [
+            36,
+            3,
+            10,
+            2
+          ],
+          "solution": [
+            2
+          ]
+        },
+        {
+          "number": 18,
+          "testimonies": [
+            10,
+            1,
+            7,
+            19
+          ],
+          "solution": [
+            1
+          ]
+        },
+        {
+          "number": 19,
+          "testimonies": [
+            1,
+            34,
+            8,
+            7
+          ],
+          "solution": [
+            3
+          ]
+        },
+        {
+          "number": 20,
+          "testimonies": [
+            7,
+            31,
+            10,
+            37
+          ],
+          "solution": [
+            4
+          ]
+        },
+        {
+          "number": 21,
+          "testimonies": [
+            8,
+            3,
+            10,
+            37
+          ],
+          "solution": [
+            2
+          ]
+        },
+        {
+          "number": 22,
+          "testimonies": [
+            36,
+            2,
+            8,
+            3
+          ],
+          "solution": [
+            1
+          ]
+        },
+        {
+          "number": 23,
+          "testimonies": [
+            2,
+            11,
+            10,
+            19
+          ],
+          "solution": [
+            2
+          ]
+        },
+        {
+          "number": 24,
+          "testimonies": [
+            31,
+            2,
+            8,
+            30
+          ],
+          "solution": [
+            1
+          ]
+        },
+        {
+          "number": 25,
+          "testimonies": [
+            10,
+            3,
+            35,
+            2
+          ],
+          "solution": [
+            2
+          ]
+        }
+      ]
+    },
+    {
+      "dossier": 4,
+      "suspects": 4,
+      "culpritCount": 1,
+      "statementType": "verites",
+      "statementCount": "2",
+      "times": [
+        2,
+        4,
+        8
+      ],
+      "cases": [
+        {
+          "number": 1,
+          "testimonies": [
+            31,
+            29,
+            19,
+            3
+          ],
+          "solution": [
+            1
+          ]
+        },
+        {
+          "number": 2,
+          "testimonies": [
+            8,
+            2,
+            10,
+            30
+          ],
+          "solution": [
+            2
+          ]
+        },
+        {
+          "number": 3,
+          "testimonies": [
+            8,
+            15,
+            7,
+            2
+          ],
+          "solution": [
+            2
+          ]
+        },
+        {
+          "number": 4,
+          "testimonies": [
+            1,
+            32,
+            7,
+            1
+          ],
+          "solution": [
+            2
+          ]
+        },
+        {
+          "number": 5,
+          "testimonies": [
+            31,
+            8,
+            1,
+            26
+          ],
+          "solution": [
+            1
+          ]
+        },
+        {
+          "number": 6,
+          "testimonies": [
+            8,
+            29,
+            3,
+            14
+          ],
+          "solution": [
+            1
+          ]
+        },
+        {
+          "number": 7,
+          "testimonies": [
+            7,
+            26,
+            3,
+            1
+          ],
+          "solution": [
+            4
+          ]
+        },
+        {
+          "number": 8,
+          "testimonies": [
+            28,
+            31,
+            32,
+            2
+          ],
+          "solution": [
+            2
+          ]
+        },
+        {
+          "number": 9,
+          "testimonies": [
+            7,
+            1,
+            2,
+            37
+          ],
+          "solution": [
+            1
+          ]
+        },
+        {
+          "number": 10,
+          "testimonies": [
+            20,
+            3,
+            31,
+            1
+          ],
+          "solution": [
+            3
+          ]
+        },
+        {
+          "number": 11,
+          "testimonies": [
+            28,
+            1,
+            10,
+            24
+          ],
+          "solution": [
+            1
+          ]
+        },
+        {
+          "number": 12,
+          "testimonies": [
+            32,
+            29,
+            1,
+            1
+          ],
+          "solution": [
+            2
+          ]
+        },
+        {
+          "number": 13,
+          "testimonies": [
+            30,
+            29,
+            8,
+            4
+          ],
+          "solution": [
+            1
+          ]
+        },
+        {
+          "number": 14,
+          "testimonies": [
+            7,
+            1,
+            31,
+            30
+          ],
+          "solution": [
+            1
+          ]
+        },
+        {
+          "number": 15,
+          "testimonies": [
+            24,
+            8,
+            10,
+            1
+          ],
+          "solution": [
+            3
+          ]
+        },
+        {
+          "number": 16,
+          "testimonies": [
+            22,
+            1,
+            3,
+            4
+          ],
+          "solution": [
+            3
+          ]
+        },
+        {
+          "number": 17,
+          "testimonies": [
+            11,
+            28,
+            7,
+            31
+          ],
+          "solution": [
+            1
+          ]
+        },
+        {
+          "number": 18,
+          "testimonies": [
+            8,
+            2,
+            1,
+            28
+          ],
+          "solution": [
+            2
+          ]
+        },
+        {
+          "number": 19,
+          "testimonies": [
+            4,
+            37,
+            31,
+            2
+          ],
+          "solution": [
+            2
+          ]
+        },
+        {
+          "number": 20,
+          "testimonies": [
+            36,
+            8,
+            2,
+            1
+          ],
+          "solution": [
+            1
+          ]
+        },
+        {
+          "number": 21,
+          "testimonies": [
+            31,
+            3,
+            35,
+            1
+          ],
+          "solution": [
+            4
+          ]
+        },
+        {
+          "number": 22,
+          "testimonies": [
+            10,
+            8,
+            34,
+            31
+          ],
+          "solution": [
+            1
+          ]
+        },
+        {
+          "number": 23,
+          "testimonies": [
+            10,
+            11,
+            1,
+            24
+          ],
+          "solution": [
+            1
+          ]
+        },
+        {
+          "number": 24,
+          "testimonies": [
+            20,
+            29,
+            1,
+            3
+          ],
+          "solution": [
+            3
+          ]
+        },
+        {
+          "number": 25,
+          "testimonies": [
+            31,
+            29,
+            8,
+            36
+          ],
+          "solution": [
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "dossier": 5,
+      "suspects": 5,
+      "culpritCount": 1,
+      "statementType": "mensonges",
+      "statementCount": "1",
+      "times": [
+        3,
+        5,
+        10
+      ],
+      "cases": [
+        {
+          "number": 1,
+          "testimonies": [
+            10,
+            1,
+            2,
+            25,
+            7
+          ],
+          "solution": [
+            1
+          ]
+        },
+        {
+          "number": 2,
+          "testimonies": [
+            1,
+            22,
+            7,
+            2,
+            30
+          ],
+          "solution": [
+            3
+          ]
+        },
+        {
+          "number": 3,
+          "testimonies": [
+            8,
+            30,
+            7,
+            37,
+            10
+          ],
+          "solution": [
+            1
+          ]
+        },
+        {
+          "number": 4,
+          "testimonies": [
+            8,
+            2,
+            31,
+            7,
+            30
+          ],
+          "solution": [
+            1
+          ]
+        },
+        {
+          "number": 5,
+          "testimonies": [
+            1,
+            2,
+            24,
+            28,
+            8
+          ],
+          "solution": [
+            5
+          ]
+        },
+        {
+          "number": 6,
+          "testimonies": [
+            18,
+            8,
+            3,
+            34,
+            2
+          ],
+          "solution": [
+            3
+          ]
+        },
+        {
+          "number": 7,
+          "testimonies": [
+            2,
+            25,
+            1,
+            11,
+            33
+          ],
+          "solution": [
+            4
+          ]
+        },
+        {
+          "number": 8,
+          "testimonies": [
+            12,
+            25,
+            2,
+            28,
+            4
+          ],
+          "solution": [
+            1
+          ]
+        },
+        {
+          "number": 9,
+          "testimonies": [
+            37,
+            8,
+            24,
+            5,
+            2
+          ],
+          "solution": [
+            1
+          ]
+        },
+        {
+          "number": 10,
+          "testimonies": [
+            25,
+            8,
+            12,
+            7,
+            30
+          ],
+          "solution": [
+            3
+          ]
+        },
+        {
+          "number": 11,
+          "testimonies": [
+            24,
+            11,
+            8,
+            17,
+            10
+          ],
+          "solution": [
+            5
+          ]
+        },
+        {
+          "number": 12,
+          "testimonies": [
+            18,
+            2,
+            31,
+            34,
+            8
+          ],
+          "solution": [
+            1
+          ]
+        },
+        {
+          "number": 13,
+          "testimonies": [
+            24,
+            34,
+            8,
+            7,
+            31
+          ],
+          "solution": [
+            5
+          ]
+        },
+        {
+          "number": 14,
+          "testimonies": [
+            8,
+            4,
+            7,
+            28,
+            30
+          ],
+          "solution": [
+            1
+          ]
+        },
+        {
+          "number": 15,
+          "testimonies": [
+            1,
+            2,
+            30,
+            7,
+            34
+          ],
+          "solution": [
+            3
+          ]
+        },
+        {
+          "number": 16,
+          "testimonies": [
+            2,
+            28,
+            24,
+            12,
+            10
+          ],
+          "solution": [
+            5
+          ]
+        },
+        {
+          "number": 17,
+          "testimonies": [
+            7,
+            36,
+            1,
+            2,
+            34
+          ],
+          "solution": [
+            1
+          ]
+        },
+        {
+          "number": 18,
+          "testimonies": [
+            4,
+            2,
+            18,
+            7,
+            30
+          ],
+          "solution": [
+            1
+          ]
+        },
+        {
+          "number": 19,
+          "testimonies": [
+            7,
+            8,
+            37,
+            25,
+            3
+          ],
+          "solution": [
+            3
+          ]
+        },
+        {
+          "number": 20,
+          "testimonies": [
+            34,
+            2,
+            3,
+            7,
+            28
+          ],
+          "solution": [
+            3
+          ]
+        },
+        {
+          "number": 21,
+          "testimonies": [
+            18,
+            30,
+            7,
+            2,
+            31
+          ],
+          "solution": [
+            1
+          ]
+        },
+        {
+          "number": 22,
+          "testimonies": [
+            8,
+            11,
+            2,
+            37,
+            4
+          ],
+          "solution": [
+            1
+          ]
+        },
+        {
+          "number": 23,
+          "testimonies": [
+            8,
+            36,
+            26,
+            2,
+            4
+          ],
+          "solution": [
+            1
+          ]
+        },
+        {
+          "number": 24,
+          "testimonies": [
+            22,
+            4,
+            7,
+            30,
+            8
+          ],
+          "solution": [
+            1
+          ]
+        },
+        {
+          "number": 25,
+          "testimonies": [
+            18,
+            2,
+            7,
+            31,
+            30
+          ],
+          "solution": [
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "dossier": 6,
+      "suspects": 5,
+      "culpritCount": 1,
+      "statementType": "verites",
+      "statementCount": "2",
+      "times": [
+        3,
+        5,
+        10
+      ],
+      "cases": [
+        {
+          "number": 1,
+          "testimonies": [
+            10,
+            4,
+            7,
+            34,
+            35
+          ],
+          "solution": [
+            2
+          ]
+        },
+        {
+          "number": 2,
+          "testimonies": [
+            10,
+            12,
+            29,
+            2,
+            11
+          ],
+          "solution": [
+            4
+          ]
+        },
+        {
+          "number": 3,
+          "testimonies": [
+            11,
+            36,
+            8,
+            33,
+            2
+          ],
+          "solution": [
+            5
+          ]
+        },
+        {
+          "number": 4,
+          "testimonies": [
+            9,
+            34,
+            25,
+            2,
+            4
+          ],
+          "solution": [
+            2
+          ]
+        },
+        {
+          "number": 5,
+          "testimonies": [
+            33,
+            29,
+            3,
+            28,
+            11
+          ],
+          "solution": [
+            3
+          ]
+        },
+        {
+          "number": 6,
+          "testimonies": [
+            5,
+            29,
+            3,
+            33,
+            24
+          ],
+          "solution": [
+            5
+          ]
+        },
+        {
+          "number": 7,
+          "testimonies": [
+            36,
+            11,
+            7,
+            20,
+            31
+          ],
+          "solution": [
+            5
+          ]
+        },
+        {
+          "number": 8,
+          "testimonies": [
+            24,
+            8,
+            7,
+            12,
+            26
+          ],
+          "solution": [
+            2
+          ]
+        },
+        {
+          "number": 9,
+          "testimonies": [
+            4,
+            30,
+            7,
+            5,
+            1
+          ],
+          "solution": [
+            1
+          ]
+        },
+        {
+          "number": 10,
+          "testimonies": [
+            29,
+            2,
+            1,
+            7,
+            19
+          ],
+          "solution": [
+            2
+          ]
+        },
+        {
+          "number": 11,
+          "testimonies": [
+            2,
+            12,
+            7,
+            3,
+            20
+          ],
+          "solution": [
+            2
+          ]
+        },
+        {
+          "number": 12,
+          "testimonies": [
+            31,
+            18,
+            37,
+            1,
+            4
+          ],
+          "solution": [
+            1
+          ]
+        },
+        {
+          "number": 13,
+          "testimonies": [
+            8,
+            31,
+            10,
+            34,
+            4
+          ],
+          "solution": [
+            2
+          ]
+        },
+        {
+          "number": 14,
+          "testimonies": [
+            5,
+            18,
+            10,
+            3,
+            17
+          ],
+          "solution": [
+            4
+          ]
+        },
+        {
+          "number": 15,
+          "testimonies": [
+            8,
+            34,
+            12,
+            4,
+            28
+          ],
+          "solution": [
+            2
+          ]
+        },
+        {
+          "number": 16,
+          "testimonies": [
+            20,
+            5,
+            10,
+            1,
+            35
+          ],
+          "solution": [
+            3
+          ]
+        },
+        {
+          "number": 17,
+          "testimonies": [
+            20,
+            4,
+            7,
+            26,
+            2
+          ],
+          "solution": [
+            2
+          ]
+        },
+        {
+          "number": 18,
+          "testimonies": [
+            8,
+            32,
+            10,
+            7,
+            37
+          ],
+          "solution": [
+            4
+          ]
+        },
+        {
+          "number": 19,
+          "testimonies": [
+            8,
+            3,
+            26,
+            5,
+            30
+          ],
+          "solution": [
+            5
+          ]
+        },
+        {
+          "number": 20,
+          "testimonies": [
+            2,
+            34,
+            8,
+            12,
+            11
+          ],
+          "solution": [
+            4
+          ]
+        },
+        {
+          "number": 21,
+          "testimonies": [
+            2,
+            37,
+            31,
+            1,
+            8
+          ],
+          "solution": [
+            1
+          ]
+        },
+        {
+          "number": 22,
+          "testimonies": [
+            2,
+            11,
+            31,
+            1,
+            20
+          ],
+          "solution": [
+            5
+          ]
+        },
+        {
+          "number": 23,
+          "testimonies": [
+            33,
+            4,
+            10,
+            1,
+            26
+          ],
+          "solution": [
+            2
+          ]
+        },
+        {
+          "number": 24,
+          "testimonies": [
+            18,
+            1,
+            7,
+            30,
+            31
+          ],
+          "solution": [
+            2
+          ]
+        },
+        {
+          "number": 25,
+          "testimonies": [
+            1,
+            5,
+            19,
+            34,
+            11
+          ],
+          "solution": [
+            3
+          ]
+        }
+      ]
+    },
+    {
+      "dossier": 7,
+      "suspects": 5,
+      "culpritCount": 1,
+      "statementType": "mensonges",
+      "statementCount": "1-2",
+      "times": [
+        3,
+        5,
+        10
+      ],
+      "cases": [
+        {
+          "number": 1,
+          "testimonies": [
+            2,
+            1,
+            30,
+            31,
+            7
+          ],
+          "solution": [
+            3
+          ]
+        },
+        {
+          "number": 2,
+          "testimonies": [
+            5,
+            25,
+            3,
+            2,
+            36
+          ],
+          "solution": [
+            1
+          ]
+        },
+        {
+          "number": 3,
+          "testimonies": [
+            10,
+            1,
+            5,
+            20,
+            28
+          ],
+          "solution": [
+            3
+          ]
+        },
+        {
+          "number": 4,
+          "testimonies": [
+            1,
+            4,
+            2,
+            7,
+            19
+          ],
+          "solution": [
+            1
+          ]
+        },
+        {
+          "number": 5,
+          "testimonies": [
+            7,
+            3,
+            36,
+            5,
+            35
+          ],
+          "solution": [
+            4
+          ]
+        },
+        {
+          "number": 6,
+          "testimonies": [
+            25,
+            2,
+            12,
+            4,
+            22
+          ],
+          "solution": [
+            4
+          ]
+        },
+        {
+          "number": 7,
+          "testimonies": [
+            20,
+            29,
+            3,
+            7,
+            32
+          ],
+          "solution": [
+            4
+          ]
+        },
+        {
+          "number": 8,
+          "testimonies": [
+            31,
+            36,
+            10,
+            1,
+            32
+          ],
+          "solution": [
+            4
+          ]
+        },
+        {
+          "number": 9,
+          "testimonies": [
+            36,
+            35,
+            1,
+            5,
+            7
+          ],
+          "solution": [
+            5
+          ]
+        },
+        {
+          "number": 10,
+          "testimonies": [
+            12,
+            1,
+            31,
+            32,
+            28
+          ],
+          "solution": [
+            2
+          ]
+        },
+        {
+          "number": 11,
+          "testimonies": [
+            31,
+            32,
+            26,
+            12,
+            11
+          ],
+          "solution": [
+            3
+          ]
+        },
+        {
+          "number": 12,
+          "testimonies": [
+            4,
+            29,
+            8,
+            35,
+            28
+          ],
+          "solution": [
+            3
+          ]
+        },
+        {
+          "number": 13,
+          "testimonies": [
+            1,
+            26,
+            36,
+            7,
+            4
+          ],
+          "solution": [
+            1
+          ]
+        },
+        {
+          "number": 14,
+          "testimonies": [
+            36,
+            4,
+            10,
+            17,
+            11
+          ],
+          "solution": [
+            5
+          ]
+        },
+        {
+          "number": 15,
+          "testimonies": [
+            18,
+            2,
+            36,
+            4,
+            1
+          ],
+          "solution": [
+            3
+          ]
+        },
+        {
+          "number": 16,
+          "testimonies": [
+            28,
+            37,
+            24,
+            5,
+            31
+          ],
+          "solution": [
+            5
+          ]
+        },
+        {
+          "number": 17,
+          "testimonies": [
+            33,
+            29,
+            37,
+            3,
+            31
+          ],
+          "solution": [
+            1
+          ]
+        },
+        {
+          "number": 18,
+          "testimonies": [
+            10,
+            11,
+            3,
+            4,
+            19
+          ],
+          "solution": [
+            1
+          ]
+        },
+        {
+          "number": 19,
+          "testimonies": [
+            12,
+            29,
+            36,
+            7,
+            17
+          ],
+          "solution": [
+            4
+          ]
+        },
+        {
+          "number": 20,
+          "testimonies": [
+            31,
+            29,
+            8,
+            35,
+            19
+          ],
+          "solution": [
+            2
+          ]
+        },
+        {
+          "number": 21,
+          "testimonies": [
+            33,
+            5,
+            37,
+            4,
+            11
+          ],
+          "solution": [
+            5
+          ]
+        },
+        {
+          "number": 22,
+          "testimonies": [
+            1,
+            8,
+            33,
+            10,
+            4
+          ],
+          "solution": [
+            3
+          ]
+        },
+        {
+          "number": 23,
+          "testimonies": [
+            1,
+            36,
+            12,
+            1,
+            4
+          ],
+          "solution": [
+            3
+          ]
+        },
+        {
+          "number": 24,
+          "testimonies": [
+            11,
+            29,
+            35,
+            10,
+            4
+          ],
+          "solution": [
+            3
+          ]
+        },
+        {
+          "number": 25,
+          "testimonies": [
+            32,
+            5,
+            8,
+            31,
+            29
+          ],
+          "solution": [
+            2
+          ]
+        }
+      ]
+    },
+    {
+      "dossier": 8,
+      "suspects": 6,
+      "culpritCount": 1,
+      "statementType": "verites",
+      "statementCount": "2",
+      "times": [
+        3,
+        5,
+        10
+      ],
+      "cases": [
+        {
+          "number": 1,
+          "testimonies": [
+            22,
+            12,
+            1,
+            19,
+            8,
+            18
+          ],
+          "solution": [
+            6
+          ]
+        },
+        {
+          "number": 2,
+          "testimonies": [
+            31,
+            2,
+            10,
+            32,
+            11,
+            34
+          ],
+          "solution": [
+            2
+          ]
+        },
+        {
+          "number": 3,
+          "testimonies": [
+            12,
+            36,
+            2,
+            35,
+            9,
+            11
+          ],
+          "solution": [
+            5
+          ]
+        },
+        {
+          "number": 4,
+          "testimonies": [
+            27,
+            28,
+            5,
+            34,
+            3,
+            2
+          ],
+          "solution": [
+            6
+          ]
+        },
+        {
+          "number": 5,
+          "testimonies": [
+            20,
+            1,
+            13,
+            34,
+            8,
+            11
+          ],
+          "solution": [
+            6
+          ]
+        },
+        {
+          "number": 6,
+          "testimonies": [
+            37,
+            13,
+            10,
+            27,
+            35,
+            12
+          ],
+          "solution": [
+            2
+          ]
+        },
+        {
+          "number": 7,
+          "testimonies": [
+            5,
+            26,
+            12,
+            9,
+            20,
+            14
+          ],
+          "solution": [
+            6
+          ]
+        },
+        {
+          "number": 8,
+          "testimonies": [
+            28,
+            5,
+            13,
+            9,
+            35,
+            34
+          ],
+          "solution": [
+            1
+          ]
+        },
+        {
+          "number": 9,
+          "testimonies": [
+            4,
+            2,
+            25,
+            3,
+            17,
+            5
+          ],
+          "solution": [
+            3
+          ]
+        },
+        {
+          "number": 10,
+          "testimonies": [
+            32,
+            12,
+            28,
+            23,
+            11,
+            17
+          ],
+          "solution": [
+            2
+          ]
+        },
+        {
+          "number": 11,
+          "testimonies": [
+            9,
+            12,
+            33,
+            23,
+            32,
+            10
+          ],
+          "solution": [
+            3
+          ]
+        },
+        {
+          "number": 12,
+          "testimonies": [
+            5,
+            34,
+            10,
+            7,
+            32,
+            30
+          ],
+          "solution": [
+            2
+          ]
+        },
+        {
+          "number": 13,
+          "testimonies": [
+            28,
+            25,
+            1,
+            12,
+            2,
+            3
+          ],
+          "solution": [
+            4
+          ]
+        },
+        {
+          "number": 14,
+          "testimonies": [
+            22,
+            30,
+            31,
+            7,
+            8,
+            1
+          ],
+          "solution": [
+            5
+          ]
+        },
+        {
+          "number": 15,
+          "testimonies": [
+            13,
+            26,
+            1,
+            30,
+            20,
+            12
+          ],
+          "solution": [
+            6
+          ]
+        },
+        {
+          "number": 16,
+          "testimonies": [
+            5,
+            9,
+            24,
+            25,
+            11,
+            30
+          ],
+          "solution": [
+            4
+          ]
+        },
+        {
+          "number": 17,
+          "testimonies": [
+            13,
+            15,
+            3,
+            23,
+            9,
+            1
+          ],
+          "solution": [
+            6
+          ]
+        },
+        {
+          "number": 18,
+          "testimonies": [
+            24,
+            29,
+            27,
+            9,
+            10,
+            20
+          ],
+          "solution": [
+            1
+          ]
+        },
+        {
+          "number": 19,
+          "testimonies": [
+            7,
+            36,
+            2,
+            31,
+            1,
+            34
+          ],
+          "solution": [
+            4
+          ]
+        },
+        {
+          "number": 20,
+          "testimonies": [
+            24,
+            18,
+            3,
+            1,
+            2,
+            4
+          ],
+          "solution": [
+            2
+          ]
+        },
+        {
+          "number": 21,
+          "testimonies": [
+            20,
+            12,
+            37,
+            3,
+            11,
+            18
+          ],
+          "solution": [
+            5
+          ]
+        },
+        {
+          "number": 22,
+          "testimonies": [
+            4,
+            28,
+            31,
+            10,
+            17,
+            11
+          ],
+          "solution": [
+            2
+          ]
+        },
+        {
+          "number": 23,
+          "testimonies": [
+            33,
+            13,
+            29,
+            26,
+            9,
+            8
+          ],
+          "solution": [
+            3
+          ]
+        },
+        {
+          "number": 24,
+          "testimonies": [
+            25,
+            8,
+            10,
+            3,
+            31,
+            32
+          ],
+          "solution": [
+            1
+          ]
+        },
+        {
+          "number": 25,
+          "testimonies": [
+            34,
+            30,
+            8,
+            13,
+            29,
+            12
+          ],
+          "solution": [
+            4
+          ]
+        }
+      ]
+    },
+    {
+      "dossier": 9,
+      "suspects": 6,
+      "culpritCount": 1,
+      "statementType": "mensonges",
+      "statementCount": "3",
+      "times": [
+        3,
+        5,
+        10
+      ],
+      "cases": [
+        {
+          "number": 1,
+          "testimonies": [
+            11,
+            27,
+            36,
+            9,
+            8,
+            18
+          ],
+          "solution": [
+            5
+          ]
+        },
+        {
+          "number": 2,
+          "testimonies": [
+            10,
+            9,
+            8,
+            27,
+            4,
+            30
+          ],
+          "solution": [
+            1
+          ]
+        },
+        {
+          "number": 3,
+          "testimonies": [
+            15,
+            28,
+            7,
+            13,
+            34,
+            1
+          ],
+          "solution": [
+            6
+          ]
+        },
+        {
+          "number": 4,
+          "testimonies": [
+            29,
+            34,
+            10,
+            1,
+            33,
+            2
+          ],
+          "solution": [
+            1
+          ]
+        },
+        {
+          "number": 5,
+          "testimonies": [
+            33,
+            8,
+            1,
+            11,
+            2,
+            37
+          ],
+          "solution": [
+            5
+          ]
+        },
+        {
+          "number": 6,
+          "testimonies": [
+            15,
+            9,
+            5,
+            37,
+            3,
+            30
+          ],
+          "solution": [
+            3
+          ]
+        },
+        {
+          "number": 7,
+          "testimonies": [
+            9,
+            37,
+            24,
+            7,
+            3,
+            36
+          ],
+          "solution": [
+            6
+          ]
+        },
+        {
+          "number": 8,
+          "testimonies": [
+            5,
+            11,
+            3,
+            24,
+            8,
+            34
+          ],
+          "solution": [
+            6
+          ]
+        },
+        {
+          "number": 9,
+          "testimonies": [
+            29,
+            4,
+            28,
+            3,
+            27,
+            15
+          ],
+          "solution": [
+            5
+          ]
+        },
+        {
+          "number": 10,
+          "testimonies": [
+            28,
+            18,
+            3,
+            4,
+            35,
+            11
+          ],
+          "solution": [
+            2
+          ]
+        },
+        {
+          "number": 11,
+          "testimonies": [
+            28,
+            8,
+            5,
+            31,
+            13,
+            2
+          ],
+          "solution": [
+            5
+          ]
+        },
+        {
+          "number": 12,
+          "testimonies": [
+            2,
+            12,
+            10,
+            20,
+            29,
+            37
+          ],
+          "solution": [
+            6
+          ]
+        },
+        {
+          "number": 13,
+          "testimonies": [
+            27,
+            26,
+            28,
+            1,
+            29,
+            3
+          ],
+          "solution": [
+            1
+          ]
+        },
+        {
+          "number": 14,
+          "testimonies": [
+            1,
+            30,
+            13,
+            1,
+            34,
+            18
+          ],
+          "solution": [
+            6
+          ]
+        },
+        {
+          "number": 15,
+          "testimonies": [
+            27,
+            3,
+            1,
+            5,
+            11,
+            36
+          ],
+          "solution": [
+            5
+          ]
+        },
+        {
+          "number": 16,
+          "testimonies": [
+            1,
+            5,
+            24,
+            3,
+            20,
+            7
+          ],
+          "solution": [
+            5
+          ]
+        },
+        {
+          "number": 17,
+          "testimonies": [
+            12,
+            4,
+            1,
+            27,
+            26,
+            5
+          ],
+          "solution": [
+            3
+          ]
+        },
+        {
+          "number": 18,
+          "testimonies": [
+            1,
+            9,
+            1,
+            20,
+            22,
+            18
+          ],
+          "solution": [
+            1
+          ]
+        },
+        {
+          "number": 19,
+          "testimonies": [
+            1,
+            34,
+            27,
+            37,
+            7,
+            8
+          ],
+          "solution": [
+            5
+          ]
+        },
+        {
+          "number": 20,
+          "testimonies": [
+            17,
+            5,
+            28,
+            9,
+            26,
+            4
+          ],
+          "solution": [
+            1
+          ]
+        },
+        {
+          "number": 21,
+          "testimonies": [
+            27,
+            8,
+            5,
+            11,
+            34,
+            24
+          ],
+          "solution": [
+            6
+          ]
+        },
+        {
+          "number": 22,
+          "testimonies": [
+            5,
+            1,
+            29,
+            4,
+            22,
+            10
+          ],
+          "solution": [
+            5
+          ]
+        },
+        {
+          "number": 23,
+          "testimonies": [
+            32,
+            27,
+            7,
+            9,
+            11,
+            35
+          ],
+          "solution": [
+            6
+          ]
+        },
+        {
+          "number": 24,
+          "testimonies": [
+            33,
+            12,
+            9,
+            5,
+            30,
+            19
+          ],
+          "solution": [
+            4
+          ]
+        },
+        {
+          "number": 25,
+          "testimonies": [
+            37,
+            4,
+            3,
+            34,
+            13,
+            19
+          ],
+          "solution": [
+            5
+          ]
+        }
+      ]
+    },
+    {
+      "dossier": 10,
+      "suspects": 6,
+      "culpritCount": 1,
+      "statementType": "mensonges",
+      "statementCount": "2-3",
+      "times": [
+        3,
+        5,
+        10
+      ],
+      "cases": [
+        {
+          "number": 1,
+          "testimonies": [
+            22,
+            31,
+            12,
+            5,
+            26,
+            11
+          ],
+          "solution": [
+            5
+          ]
+        },
+        {
+          "number": 2,
+          "testimonies": [
+            7,
+            22,
+            1,
+            31,
+            13,
+            37
+          ],
+          "solution": [
+            6
+          ]
+        },
+        {
+          "number": 3,
+          "testimonies": [
+            10,
+            13,
+            1,
+            34,
+            22,
+            35
+          ],
+          "solution": [
+            3
+          ]
+        },
+        {
+          "number": 4,
+          "testimonies": [
+            10,
+            8,
+            5,
+            19,
+            32,
+            22
+          ],
+          "solution": [
+            2
+          ]
+        },
+        {
+          "number": 5,
+          "testimonies": [
+            36,
+            25,
+            31,
+            3,
+            10,
+            5
+          ],
+          "solution": [
+            6
+          ]
+        },
+        {
+          "number": 6,
+          "testimonies": [
+            25,
+            22,
+            14,
+            12,
+            13,
+            1
+          ],
+          "solution": [
+            6
+          ]
+        },
+        {
+          "number": 7,
+          "testimonies": [
+            10,
+            18,
+            36,
+            4,
+            31,
+            5
+          ],
+          "solution": [
+            3
+          ]
+        },
+        {
+          "number": 8,
+          "testimonies": [
+            17,
+            29,
+            28,
+            27,
+            10,
+            1
+          ],
+          "solution": [
+            4
+          ]
+        },
+        {
+          "number": 9,
+          "testimonies": [
+            4,
+            11,
+            3,
+            23,
+            13,
+            19
+          ],
+          "solution": [
+            3
+          ]
+        },
+        {
+          "number": 10,
+          "testimonies": [
+            27,
+            26,
+            9,
+            3,
+            33,
+            12
+          ],
+          "solution": [
+            2
+          ]
+        },
+        {
+          "number": 11,
+          "testimonies": [
+            20,
+            12,
+            28,
+            34,
+            14,
+            4
+          ],
+          "solution": [
+            3
+          ]
+        },
+        {
+          "number": 12,
+          "testimonies": [
+            10,
+            8,
+            23,
+            30,
+            4,
+            2
+          ],
+          "solution": [
+            1
+          ]
+        },
+        {
+          "number": 13,
+          "testimonies": [
+            5,
+            1,
+            31,
+            36,
+            30,
+            4
+          ],
+          "solution": [
+            3
+          ]
+        },
+        {
+          "number": 14,
+          "testimonies": [
+            15,
+            3,
+            26,
+            35,
+            10,
+            12
+          ],
+          "solution": [
+            1
+          ]
+        },
+        {
+          "number": 15,
+          "testimonies": [
+            22,
+            12,
+            26,
+            11,
+            28,
+            1
+          ],
+          "solution": [
+            6
+          ]
+        },
+        {
+          "number": 16,
+          "testimonies": [
+            32,
+            1,
+            12,
+            5,
+            24,
+            30
+          ],
+          "solution": [
+            2
+          ]
+        },
+        {
+          "number": 17,
+          "testimonies": [
+            18,
+            34,
+            8,
+            4,
+            3,
+            24
+          ],
+          "solution": [
+            5
+          ]
+        },
+        {
+          "number": 18,
+          "testimonies": [
+            5,
+            26,
+            12,
+            14,
+            4,
+            1
+          ],
+          "solution": [
+            6
+          ]
+        },
+        {
+          "number": 19,
+          "testimonies": [
+            34,
+            26,
+            5,
+            4,
+            3,
+            19
+          ],
+          "solution": [
+            1
+          ]
+        },
+        {
+          "number": 20,
+          "testimonies": [
+            36,
+            4,
+            5,
+            1,
+            31,
+            34
+          ],
+          "solution": [
+            3
+          ]
+        },
+        {
+          "number": 21,
+          "testimonies": [
+            34,
+            23,
+            3,
+            7,
+            26,
+            2
+          ],
+          "solution": [
+            3
+          ]
+        },
+        {
+          "number": 22,
+          "testimonies": [
+            22,
+            29,
+            26,
+            3,
+            10,
+            8
+          ],
+          "solution": [
+            3
+          ]
+        },
+        {
+          "number": 23,
+          "testimonies": [
+            10,
+            33,
+            5,
+            4,
+            31,
+            22
+          ],
+          "solution": [
+            3
+          ]
+        },
+        {
+          "number": 24,
+          "testimonies": [
+            22,
+            12,
+            25,
+            36,
+            2,
+            5
+          ],
+          "solution": [
+            5
+          ]
+        },
+        {
+          "number": 25,
+          "testimonies": [
+            20,
+            5,
+            1,
+            27,
+            10,
+            34
+          ],
+          "solution": [
+            3
+          ]
+        }
+      ]
+    },
+    {
+      "dossier": 11,
+      "suspects": 7,
+      "culpritCount": 1,
+      "statementType": "mensonges",
+      "statementCount": "2",
+      "times": [
+        4,
+        6,
+        12
+      ],
+      "cases": [
+        {
+          "number": 1,
+          "testimonies": [
+            34,
+            18,
+            8,
+            17,
+            13,
+            10,
+            19
+          ],
+          "solution": [
+            7
+          ]
+        },
+        {
+          "number": 2,
+          "testimonies": [
+            33,
+            9,
+            26,
+            2,
+            7,
+            14,
+            30
+          ],
+          "solution": [
+            3
+          ]
+        },
+        {
+          "number": 3,
+          "testimonies": [
+            34,
+            36,
+            38,
+            25,
+            13,
+            2,
+            9
+          ],
+          "solution": [
+            1
+          ]
+        },
+        {
+          "number": 4,
+          "testimonies": [
+            7,
+            38,
+            2,
+            36,
+            34,
+            14,
+            33
+          ],
+          "solution": [
+            5
+          ]
+        },
+        {
+          "number": 5,
+          "testimonies": [
+            36,
+            8,
+            6,
+            34,
+            17,
+            7,
+            19
+          ],
+          "solution": [
+            1
+          ]
+        },
+        {
+          "number": 6,
+          "testimonies": [
+            2,
+            21,
+            12,
+            30,
+            1,
+            26,
+            22
+          ],
+          "solution": [
+            7
+          ]
+        },
+        {
+          "number": 7,
+          "testimonies": [
+            4,
+            33,
+            29,
+            13,
+            34,
+            3,
+            37
+          ],
+          "solution": [
+            5
+          ]
+        },
+        {
+          "number": 8,
+          "testimonies": [
+            2,
+            9,
+            29,
+            35,
+            2,
+            37,
+            5
+          ],
+          "solution": [
+            2
+          ]
+        },
+        {
+          "number": 9,
+          "testimonies": [
+            17,
+            30,
+            12,
+            19,
+            27,
+            8,
+            9
+          ],
+          "solution": [
+            7
+          ]
+        },
+        {
+          "number": 10,
+          "testimonies": [
+            7,
+            36,
+            2,
+            33,
+            9,
+            22,
+            34
+          ],
+          "solution": [
+            4
+          ]
+        },
+        {
+          "number": 11,
+          "testimonies": [
+            36,
+            33,
+            2,
+            35,
+            13,
+            5,
+            37
+          ],
+          "solution": [
+            4
+          ]
+        },
+        {
+          "number": 12,
+          "testimonies": [
+            29,
+            33,
+            24,
+            37,
+            11,
+            10,
+            12
+          ],
+          "solution": [
+            4
+          ]
+        },
+        {
+          "number": 13,
+          "testimonies": [
+            16,
+            2,
+            39,
+            37,
+            8,
+            17,
+            22
+          ],
+          "solution": [
+            4
+          ]
+        },
+        {
+          "number": 14,
+          "testimonies": [
+            33,
+            18,
+            9,
+            6,
+            17,
+            8,
+            34
+          ],
+          "solution": [
+            5
+          ]
+        },
+        {
+          "number": 15,
+          "testimonies": [
+            8,
+            2,
+            26,
+            31,
+            39,
+            19,
+            17
+          ],
+          "solution": [
+            3
+          ]
+        },
+        {
+          "number": 16,
+          "testimonies": [
+            29,
+            39,
+            8,
+            31,
+            2,
+            7,
+            36
+          ],
+          "solution": [
+            3
+          ]
+        },
+        {
+          "number": 17,
+          "testimonies": [
+            8,
+            28,
+            39,
+            3,
+            24,
+            36,
+            18
+          ],
+          "solution": [
+            3
+          ]
+        },
+        {
+          "number": 18,
+          "testimonies": [
+            1,
+            30,
+            10,
+            37,
+            24,
+            34,
+            7
+          ],
+          "solution": [
+            7
+          ]
+        },
+        {
+          "number": 19,
+          "testimonies": [
+            39,
+            28,
+            2,
+            23,
+            27,
+            12,
+            25
+          ],
+          "solution": [
+            1
+          ]
+        },
+        {
+          "number": 20,
+          "testimonies": [
+            10,
+            2,
+            31,
+            37,
+            33,
+            39,
+            29
+          ],
+          "solution": [
+            4
+          ]
+        },
+        {
+          "number": 21,
+          "testimonies": [
+            32,
+            37,
+            13,
+            30,
+            39,
+            12,
+            25
+          ],
+          "solution": [
+            2
+          ]
+        },
+        {
+          "number": 22,
+          "testimonies": [
+            35,
+            41,
+            13,
+            2,
+            10,
+            12,
+            33
+          ],
+          "solution": [
+            2
+          ]
+        },
+        {
+          "number": 23,
+          "testimonies": [
+            25,
+            2,
+            29,
+            1,
+            39,
+            37,
+            36
+          ],
+          "solution": [
+            6
+          ]
+        },
+        {
+          "number": 24,
+          "testimonies": [
+            38,
+            22,
+            14,
+            7,
+            10,
+            34,
+            2
+          ],
+          "solution": [
+            3
+          ]
+        },
+        {
+          "number": 25,
+          "testimonies": [
+            13,
+            35,
+            32,
+            24,
+            9,
+            37,
+            39
+          ],
+          "solution": [
+            2
+          ]
+        }
+      ]
+    },
+    {
+      "dossier": 12,
+      "suspects": 7,
+      "culpritCount": 1,
+      "statementType": "verites",
+      "statementCount": "3-4",
+      "times": [
+        4,
+        6,
+        12
+      ],
+      "cases": [
+        {
+          "number": 1,
+          "testimonies": [
+            31,
+            42,
+            18,
+            36,
+            13,
+            32,
+            4
+          ],
+          "solution": [
+            6
+          ]
+        },
+        {
+          "number": 2,
+          "testimonies": [
+            6,
+            25,
+            37,
+            13,
+            38,
+            22,
+            14
+          ],
+          "solution": [
+            2
+          ]
+        },
+        {
+          "number": 3,
+          "testimonies": [
+            39,
+            26,
+            7,
+            37,
+            28,
+            35,
+            9
+          ],
+          "solution": [
+            3
+          ]
+        },
+        {
+          "number": 4,
+          "testimonies": [
+            7,
+            26,
+            41,
+            9,
+            22,
+            4,
+            13
+          ],
+          "solution": [
+            6
+          ]
+        },
+        {
+          "number": 5,
+          "testimonies": [
+            36,
+            9,
+            8,
+            30,
+            26,
+            2,
+            34
+          ],
+          "solution": [
+            2
+          ]
+        },
+        {
+          "number": 6,
+          "testimonies": [
+            4,
+            3,
+            26,
+            30,
+            33,
+            34,
+            38
+          ],
+          "solution": [
+            3
+          ]
+        },
+        {
+          "number": 7,
+          "testimonies": [
+            30,
+            6,
+            5,
+            23,
+            21,
+            1,
+            11
+          ],
+          "solution": [
+            7
+          ]
+        },
+        {
+          "number": 8,
+          "testimonies": [
+            42,
+            6,
+            24,
+            9,
+            28,
+            30,
+            18
+          ],
+          "solution": [
+            6
+          ]
+        },
+        {
+          "number": 9,
+          "testimonies": [
+            5,
+            13,
+            39,
+            20,
+            29,
+            30,
+            22
+          ],
+          "solution": [
+            3
+          ]
+        },
+        {
+          "number": 10,
+          "testimonies": [
+            2,
+            35,
+            5,
+            17,
+            7,
+            39,
+            27
+          ],
+          "solution": [
+            2
+          ]
+        },
+        {
+          "number": 11,
+          "testimonies": [
+            21,
+            23,
+            3,
+            19,
+            26,
+            7,
+            13
+          ],
+          "solution": [
+            5
+          ]
+        },
+        {
+          "number": 12,
+          "testimonies": [
+            16,
+            6,
+            23,
+            27,
+            8,
+            42,
+            4
+          ],
+          "solution": [
+            7
+          ]
+        },
+        {
+          "number": 13,
+          "testimonies": [
+            6,
+            23,
+            35,
+            1,
+            29,
+            2,
+            5
+          ],
+          "solution": [
+            2
+          ]
+        },
+        {
+          "number": 14,
+          "testimonies": [
+            4,
+            22,
+            36,
+            10,
+            9,
+            37,
+            38
+          ],
+          "solution": [
+            1
+          ]
+        },
+        {
+          "number": 15,
+          "testimonies": [
+            22,
+            36,
+            16,
+            42,
+            10,
+            5,
+            3
+          ],
+          "solution": [
+            6
+          ]
+        },
+        {
+          "number": 16,
+          "testimonies": [
+            31,
+            2,
+            24,
+            23,
+            34,
+            8,
+            4
+          ],
+          "solution": [
+            6
+          ]
+        },
+        {
+          "number": 17,
+          "testimonies": [
+            2,
+            9,
+            8,
+            32,
+            41,
+            33,
+            24
+          ],
+          "solution": [
+            7
+          ]
+        },
+        {
+          "number": 18,
+          "testimonies": [
+            18,
+            38,
+            25,
+            12,
+            35,
+            29,
+            2
+          ],
+          "solution": [
+            5
+          ]
+        },
+        {
+          "number": 19,
+          "testimonies": [
+            6,
+            13,
+            23,
+            32,
+            29,
+            17,
+            2
+          ],
+          "solution": [
+            2
+          ]
+        },
+        {
+          "number": 20,
+          "testimonies": [
+            1,
+            2,
+            23,
+            9,
+            30,
+            25,
+            4
+          ],
+          "solution": [
+            4
+          ]
+        },
+        {
+          "number": 21,
+          "testimonies": [
+            8,
+            23,
+            1,
+            37,
+            19,
+            33,
+            42
+          ],
+          "solution": [
+            6
+          ]
+        },
+        {
+          "number": 22,
+          "testimonies": [
+            16,
+            12,
+            27,
+            31,
+            33,
+            42,
+            9
+          ],
+          "solution": [
+            3
+          ]
+        },
+        {
+          "number": 23,
+          "testimonies": [
+            23,
+            5,
+            28,
+            38,
+            16,
+            32,
+            3
+          ],
+          "solution": [
+            6
+          ]
+        },
+        {
+          "number": 24,
+          "testimonies": [
+            1,
+            1,
+            29,
+            42,
+            4,
+            11,
+            22
+          ],
+          "solution": [
+            3
+          ]
+        },
+        {
+          "number": 25,
+          "testimonies": [
+            8,
+            22,
+            30,
+            24,
+            4,
+            25,
+            13
+          ],
+          "solution": [
+            5
+          ]
+        }
+      ]
+    },
+    {
+      "dossier": 13,
+      "suspects": 5,
+      "culpritCount": 2,
+      "statementType": "mensonges",
+      "statementCount": "1",
+      "times": [
+        2,
+        4,
+        8
+      ],
+      "cases": [
+        {
+          "number": 1,
+          "testimonies": [
+            10,
+            5,
+            36,
+            25,
+            26
+          ],
+          "solution": [
+            1,
+            2
+          ]
+        },
+        {
+          "number": 2,
+          "testimonies": [
+            48,
+            11,
+            30,
+            31,
+            7
+          ],
+          "solution": [
+            3,
+            4
+          ]
+        },
+        {
+          "number": 3,
+          "testimonies": [
+            28,
+            25,
+            12,
+            46,
+            37
+          ],
+          "solution": [
+            3,
+            4
+          ]
+        },
+        {
+          "number": 4,
+          "testimonies": [
+            5,
+            32,
+            36,
+            26,
+            1
+          ],
+          "solution": [
+            2,
+            5
+          ]
+        },
+        {
+          "number": 5,
+          "testimonies": [
+            45,
+            4,
+            8,
+            12,
+            26
+          ],
+          "solution": [
+            2,
+            3
+          ]
+        },
+        {
+          "number": 6,
+          "testimonies": [
+            4,
+            31,
+            26,
+            3,
+            24
+          ],
+          "solution": [
+            3,
+            4
+          ]
+        },
+        {
+          "number": 7,
+          "testimonies": [
+            20,
+            42,
+            2,
+            19,
+            1
+          ],
+          "solution": [
+            1,
+            5
+          ]
+        },
+        {
+          "number": 8,
+          "testimonies": [
+            50,
+            1,
+            5,
+            32,
+            17
+          ],
+          "solution": [
+            2,
+            5
+          ]
+        },
+        {
+          "number": 9,
+          "testimonies": [
+            1,
+            8,
+            34,
+            41,
+            29
+          ],
+          "solution": [
+            1,
+            2
+          ]
+        },
+        {
+          "number": 10,
+          "testimonies": [
+            35,
+            5,
+            41,
+            19,
+            11
+          ],
+          "solution": [
+            2,
+            5
+          ]
+        },
+        {
+          "number": 11,
+          "testimonies": [
+            4,
+            34,
+            40,
+            26,
+            8
+          ],
+          "solution": [
+            1,
+            3
+          ]
+        },
+        {
+          "number": 12,
+          "testimonies": [
+            22,
+            50,
+            8,
+            35,
+            3
+          ],
+          "solution": [
+            2,
+            5
+          ]
+        },
+        {
+          "number": 13,
+          "testimonies": [
+            24,
+            12,
+            26,
+            35,
+            49
+          ],
+          "solution": [
+            3,
+            4
+          ]
+        },
+        {
+          "number": 14,
+          "testimonies": [
+            32,
+            2,
+            19,
+            37,
+            3
+          ],
+          "solution": [
+            1,
+            2
+          ]
+        },
+        {
+          "number": 15,
+          "testimonies": [
+            22,
+            30,
+            49,
+            2,
+            29
+          ],
+          "solution": [
+            1,
+            3
+          ]
+        },
+        {
+          "number": 16,
+          "testimonies": [
+            47,
+            30,
+            3,
+            25,
+            8
+          ],
+          "solution": [
+            2,
+            3
+          ]
+        },
+        {
+          "number": 17,
+          "testimonies": [
+            11,
+            29,
+            34,
+            38,
+            19
+          ],
+          "solution": [
+            1,
+            4
+          ]
+        },
+        {
+          "number": 18,
+          "testimonies": [
+            24,
+            36,
+            5,
+            39,
+            8
+          ],
+          "solution": [
+            1,
+            5
+          ]
+        },
+        {
+          "number": 19,
+          "testimonies": [
+            12,
+            8,
+            31,
+            26,
+            35
+          ],
+          "solution": [
+            1,
+            3
+          ]
+        },
+        {
+          "number": 20,
+          "testimonies": [
+            11,
+            22,
+            18,
+            31,
+            35
+          ],
+          "solution": [
+            2,
+            3
+          ]
+        },
+        {
+          "number": 21,
+          "testimonies": [
+            20,
+            37,
+            5,
+            12,
+            7
+          ],
+          "solution": [
+            2,
+            5
+          ]
+        },
+        {
+          "number": 22,
+          "testimonies": [
+            28,
+            25,
+            1,
+            32,
+            17
+          ],
+          "solution": [
+            3,
+            4
+          ]
+        },
+        {
+          "number": 23,
+          "testimonies": [
+            5,
+            11,
+            8,
+            19,
+            36
+          ],
+          "solution": [
+            1,
+            5
+          ]
+        },
+        {
+          "number": 24,
+          "testimonies": [
+            32,
+            47,
+            8,
+            5,
+            2
+          ],
+          "solution": [
+            2,
+            5
+          ]
+        },
+        {
+          "number": 25,
+          "testimonies": [
+            4,
+            36,
+            31,
+            2,
+            34
+          ],
+          "solution": [
+            3,
+            4
+          ]
+        }
+      ]
+    },
+    {
+      "dossier": 14,
+      "suspects": 5,
+      "culpritCount": 2,
+      "statementType": "verites",
+      "statementCount": "2",
+      "times": [
+        2,
+        4,
+        8
+      ],
+      "cases": [
+        {
+          "number": 1,
+          "testimonies": [
+            8,
+            5,
+            35,
+            32,
+            41
+          ],
+          "solution": [
+            1,
+            3
+          ]
+        },
+        {
+          "number": 2,
+          "testimonies": [
+            4,
+            36,
+            18,
+            35,
+            42
+          ],
+          "solution": [
+            1,
+            4
+          ]
+        },
+        {
+          "number": 3,
+          "testimonies": [
+            7,
+            25,
+            12,
+            5,
+            34
+          ],
+          "solution": [
+            2,
+            5
+          ]
+        },
+        {
+          "number": 4,
+          "testimonies": [
+            35,
+            3,
+            37,
+            42,
+            2
+          ],
+          "solution": [
+            2,
+            4
+          ]
+        },
+        {
+          "number": 5,
+          "testimonies": [
+            49,
+            32,
+            1,
+            34,
+            20
+          ],
+          "solution": [
+            2,
+            4
+          ]
+        },
+        {
+          "number": 6,
+          "testimonies": [
+            37,
+            3,
+            43,
+            1,
+            4
+          ],
+          "solution": [
+            1,
+            5
+          ]
+        },
+        {
+          "number": 7,
+          "testimonies": [
+            12,
+            4,
+            32,
+            38,
+            22
+          ],
+          "solution": [
+            1,
+            5
+          ]
+        },
+        {
+          "number": 8,
+          "testimonies": [
+            4,
+            32,
+            8,
+            34,
+            49
+          ],
+          "solution": [
+            1,
+            5
+          ]
+        },
+        {
+          "number": 9,
+          "testimonies": [
+            8,
+            35,
+            38,
+            20,
+            36
+          ],
+          "solution": [
+            1,
+            5
+          ]
+        },
+        {
+          "number": 10,
+          "testimonies": [
+            2,
+            32,
+            30,
+            7,
+            47
+          ],
+          "solution": [
+            1,
+            5
+          ]
+        },
+        {
+          "number": 11,
+          "testimonies": [
+            7,
+            3,
+            24,
+            30,
+            26
+          ],
+          "solution": [
+            3,
+            4
+          ]
+        },
+        {
+          "number": 12,
+          "testimonies": [
+            35,
+            36,
+            49,
+            3,
+            31
+          ],
+          "solution": [
+            1,
+            5
+          ]
+        },
+        {
+          "number": 13,
+          "testimonies": [
+            5,
+            26,
+            1,
+            41,
+            34
+          ],
+          "solution": [
+            2,
+            4
+          ]
+        },
+        {
+          "number": 14,
+          "testimonies": [
+            34,
+            8,
+            3,
+            19,
+            22
+          ],
+          "solution": [
+            3,
+            5
+          ]
+        },
+        {
+          "number": 15,
+          "testimonies": [
+            8,
+            11,
+            36,
+            45,
+            34
+          ],
+          "solution": [
+            1,
+            4
+          ]
+        },
+        {
+          "number": 16,
+          "testimonies": [
+            29,
+            31,
+            24,
+            41,
+            10
+          ],
+          "solution": [
+            1,
+            3
+          ]
+        },
+        {
+          "number": 17,
+          "testimonies": [
+            36,
+            1,
+            25,
+            42,
+            37
+          ],
+          "solution": [
+            1,
+            4
+          ]
+        },
+        {
+          "number": 18,
+          "testimonies": [
+            5,
+            2,
+            44,
+            26,
+            29
+          ],
+          "solution": [
+            1,
+            2
+          ]
+        },
+        {
+          "number": 19,
+          "testimonies": [
+            8,
+            26,
+            46,
+            34,
+            31
+          ],
+          "solution": [
+            4,
+            5
+          ]
+        },
+        {
+          "number": 20,
+          "testimonies": [
+            5,
+            3,
+            8,
+            36,
+            48
+          ],
+          "solution": [
+            3,
+            4
+          ]
+        },
+        {
+          "number": 21,
+          "testimonies": [
+            46,
+            12,
+            7,
+            36,
+            30
+          ],
+          "solution": [
+            1,
+            2
+          ]
+        },
+        {
+          "number": 22,
+          "testimonies": [
+            10,
+            31,
+            32,
+            36,
+            30
+          ],
+          "solution": [
+            2,
+            4
+          ]
+        },
+        {
+          "number": 23,
+          "testimonies": [
+            32,
+            28,
+            37,
+            7,
+            11
+          ],
+          "solution": [
+            2,
+            4
+          ]
+        },
+        {
+          "number": 24,
+          "testimonies": [
+            1,
+            46,
+            3,
+            30,
+            28
+          ],
+          "solution": [
+            3,
+            5
+          ]
+        },
+        {
+          "number": 25,
+          "testimonies": [
+            7,
+            2,
+            30,
+            4,
+            45
+          ],
+          "solution": [
+            1,
+            2
+          ]
+        }
+      ]
+    },
+    {
+      "dossier": 15,
+      "suspects": 6,
+      "culpritCount": 2,
+      "statementType": "verites",
+      "statementCount": "3",
+      "times": [
+        3,
+        5,
+        10
+      ],
+      "cases": [
+        {
+          "number": 1,
+          "testimonies": [
+            34,
+            11,
+            18,
+            19,
+            28,
+            8
+          ],
+          "solution": [
+            3,
+            4
+          ]
+        },
+        {
+          "number": 2,
+          "testimonies": [
+            22,
+            26,
+            19,
+            9,
+            30,
+            3
+          ],
+          "solution": [
+            2,
+            6
+          ]
+        },
+        {
+          "number": 3,
+          "testimonies": [
+            13,
+            2,
+            41,
+            5,
+            34,
+            17
+          ],
+          "solution": [
+            4,
+            6
+          ]
+        },
+        {
+          "number": 4,
+          "testimonies": [
+            22,
+            42,
+            38,
+            33,
+            3,
+            20
+          ],
+          "solution": [
+            4,
+            5
+          ]
+        },
+        {
+          "number": 5,
+          "testimonies": [
+            11,
+            28,
+            2,
+            41,
+            38,
+            17
+          ],
+          "solution": [
+            2,
+            4
+          ]
+        },
+        {
+          "number": 6,
+          "testimonies": [
+            30,
+            9,
+            26,
+            4,
+            19,
+            17
+          ],
+          "solution": [
+            3,
+            6
+          ]
+        },
+        {
+          "number": 7,
+          "testimonies": [
+            30,
+            28,
+            2,
+            32,
+            34,
+            38
+          ],
+          "solution": [
+            2,
+            4
+          ]
+        },
+        {
+          "number": 8,
+          "testimonies": [
+            43,
+            1,
+            25,
+            31,
+            7,
+            22
+          ],
+          "solution": [
+            3,
+            6
+          ]
+        },
+        {
+          "number": 9,
+          "testimonies": [
+            37,
+            25,
+            12,
+            7,
+            36,
+            38
+          ],
+          "solution": [
+            4,
+            5
+          ]
+        },
+        {
+          "number": 10,
+          "testimonies": [
+            18,
+            30,
+            1,
+            49,
+            26,
+            47
+          ],
+          "solution": [
+            3,
+            4
+          ]
+        },
+        {
+          "number": 11,
+          "testimonies": [
+            49,
+            29,
+            32,
+            26,
+            45,
+            22
+          ],
+          "solution": [
+            1,
+            6
+          ]
+        },
+        {
+          "number": 12,
+          "testimonies": [
+            49,
+            34,
+            32,
+            41,
+            20,
+            7
+          ],
+          "solution": [
+            2,
+            6
+          ]
+        },
+        {
+          "number": 13,
+          "testimonies": [
+            4,
+            34,
+            32,
+            36,
+            26,
+            38
+          ],
+          "solution": [
+            1,
+            6
+          ]
+        },
+        {
+          "number": 14,
+          "testimonies": [
+            2,
+            27,
+            25,
+            41,
+            46,
+            7
+          ],
+          "solution": [
+            3,
+            5
+          ]
+        },
+        {
+          "number": 15,
+          "testimonies": [
+            23,
+            44,
+            19,
+            35,
+            2,
+            38
+          ],
+          "solution": [
+            1,
+            5
+          ]
+        },
+        {
+          "number": 16,
+          "testimonies": [
+            25,
+            31,
+            8,
+            39,
+            45,
+            7
+          ],
+          "solution": [
+            4,
+            5
+          ]
+        },
+        {
+          "number": 17,
+          "testimonies": [
+            42,
+            45,
+            33,
+            17,
+            26,
+            3
+          ],
+          "solution": [
+            4,
+            6
+          ]
+        },
+        {
+          "number": 18,
+          "testimonies": [
+            33,
+            30,
+            49,
+            9,
+            1,
+            47
+          ],
+          "solution": [
+            4,
+            6
+          ]
+        },
+        {
+          "number": 19,
+          "testimonies": [
+            11,
+            30,
+            33,
+            35,
+            7,
+            39
+          ],
+          "solution": [
+            2,
+            4
+          ]
+        },
+        {
+          "number": 20,
+          "testimonies": [
+            28,
+            36,
+            25,
+            48,
+            7,
+            38
+          ],
+          "solution": [
+            2,
+            4
+          ]
+        },
+        {
+          "number": 21,
+          "testimonies": [
+            2,
+            43,
+            23,
+            4,
+            20,
+            24
+          ],
+          "solution": [
+            4,
+            5
+          ]
+        },
+        {
+          "number": 22,
+          "testimonies": [
+            33,
+            13,
+            35,
+            41,
+            11,
+            3
+          ],
+          "solution": [
+            3,
+            6
+          ]
+        },
+        {
+          "number": 23,
+          "testimonies": [
+            38,
+            35,
+            41,
+            31,
+            24,
+            2
+          ],
+          "solution": [
+            1,
+            5
+          ]
+        },
+        {
+          "number": 24,
+          "testimonies": [
+            9,
+            3,
+            19,
+            13,
+            22,
+            24
+          ],
+          "solution": [
+            2,
+            6
+          ]
+        },
+        {
+          "number": 25,
+          "testimonies": [
+            32,
+            33,
+            38,
+            34,
+            13,
+            5
+          ],
+          "solution": [
+            3,
+            6
+          ]
+        }
+      ]
+    },
+    {
+      "dossier": 16,
+      "suspects": 6,
+      "culpritCount": 2,
+      "statementType": "verites",
+      "statementCount": "1-2",
+      "times": [
+        3,
+        5,
+        10
+      ],
+      "cases": [
+        {
+          "number": 1,
+          "testimonies": [
+            34,
+            11,
+            18,
+            19,
+            28,
+            8
+          ],
+          "solution": [
+            1,
+            5
+          ]
+        },
+        {
+          "number": 2,
+          "testimonies": [
+            22,
+            26,
+            19,
+            9,
+            30,
+            3
+          ],
+          "solution": [
+            1,
+            5
+          ]
+        },
+        {
+          "number": 3,
+          "testimonies": [
+            13,
+            2,
+            41,
+            5,
+            34,
+            17
+          ],
+          "solution": [
+            2,
+            4
+          ]
+        },
+        {
+          "number": 4,
+          "testimonies": [
+            22,
+            42,
+            38,
+            33,
+            3,
+            20
+          ],
+          "solution": [
+            4,
+            5
+          ]
+        },
+        {
+          "number": 5,
+          "testimonies": [
+            11,
+            28,
+            2,
+            41,
+            38,
+            17
+          ],
+          "solution": [
+            2,
+            4
+          ]
+        },
+        {
+          "number": 6,
+          "testimonies": [
+            30,
+            9,
+            26,
+            4,
+            19,
+            17
+          ],
+          "solution": [
+            1,
+            4
+          ]
+        },
+        {
+          "number": 7,
+          "testimonies": [
+            30,
+            28,
+            2,
+            32,
+            34,
+            38
+          ],
+          "solution": [
+            1,
+            3
+          ]
+        },
+        {
+          "number": 8,
+          "testimonies": [
+            43,
+            1,
+            25,
+            31,
+            7,
+            22
+          ],
+          "solution": [
+            1,
+            6
+          ]
+        },
+        {
+          "number": 9,
+          "testimonies": [
+            37,
+            25,
+            12,
+            7,
+            36,
+            38
+          ],
+          "solution": [
+            1,
+            6
+          ]
+        },
+        {
+          "number": 10,
+          "testimonies": [
+            18,
+            30,
+            1,
+            49,
+            26,
+            47
+          ],
+          "solution": [
+            2,
+            5
+          ]
+        },
+        {
+          "number": 11,
+          "testimonies": [
+            49,
+            29,
+            32,
+            26,
+            45,
+            22
+          ],
+          "solution": [
+            4,
+            5
+          ]
+        },
+        {
+          "number": 12,
+          "testimonies": [
+            49,
+            34,
+            32,
+            41,
+            20,
+            7
+          ],
+          "solution": [
+            2,
+            6
+          ]
+        },
+        {
+          "number": 13,
+          "testimonies": [
+            4,
+            34,
+            32,
+            36,
+            26,
+            38
+          ],
+          "solution": [
+            2,
+            3
+          ]
+        },
+        {
+          "number": 14,
+          "testimonies": [
+            2,
+            27,
+            25,
+            41,
+            46,
+            7
+          ],
+          "solution": [
+            3,
+            6
+          ]
+        },
+        {
+          "number": 15,
+          "testimonies": [
+            23,
+            44,
+            19,
+            35,
+            2,
+            38
+          ],
+          "solution": [
+            1,
+            4
+          ]
+        },
+        {
+          "number": 16,
+          "testimonies": [
+            25,
+            31,
+            8,
+            39,
+            45,
+            7
+          ],
+          "solution": [
+            2,
+            5
+          ]
+        },
+        {
+          "number": 17,
+          "testimonies": [
+            42,
+            45,
+            33,
+            17,
+            26,
+            3
+          ],
+          "solution": [
+            2,
+            4
+          ]
+        },
+        {
+          "number": 18,
+          "testimonies": [
+            33,
+            30,
+            49,
+            9,
+            1,
+            47
+          ],
+          "solution": [
+            2,
+            6
+          ]
+        },
+        {
+          "number": 19,
+          "testimonies": [
+            11,
+            30,
+            33,
+            35,
+            7,
+            39
+          ],
+          "solution": [
+            5,
+            6
+          ]
+        },
+        {
+          "number": 20,
+          "testimonies": [
+            28,
+            36,
+            25,
+            48,
+            7,
+            38
+          ],
+          "solution": [
+            1,
+            5
+          ]
+        },
+        {
+          "number": 21,
+          "testimonies": [
+            2,
+            43,
+            23,
+            4,
+            20,
+            24
+          ],
+          "solution": [
+            2,
+            4
+          ]
+        },
+        {
+          "number": 22,
+          "testimonies": [
+            33,
+            13,
+            35,
+            41,
+            11,
+            3
+          ],
+          "solution": [
+            3,
+            6
+          ]
+        },
+        {
+          "number": 23,
+          "testimonies": [
+            38,
+            35,
+            41,
+            31,
+            24,
+            2
+          ],
+          "solution": [
+            2,
+            6
+          ]
+        },
+        {
+          "number": 24,
+          "testimonies": [
+            9,
+            3,
+            19,
+            13,
+            22,
+            24
+          ],
+          "solution": [
+            4,
+            5
+          ]
+        },
+        {
+          "number": 25,
+          "testimonies": [
+            32,
+            33,
+            38,
+            34,
+            13,
+            5
+          ],
+          "solution": [
+            3,
+            5
+          ]
+        }
+      ]
+    },
+    {
+      "dossier": 17,
+      "suspects": 7,
+      "culpritCount": 2,
+      "statementType": "verites",
+      "statementCount": "3",
+      "times": [
+        4,
+        6,
+        12
+      ],
+      "cases": [
+        {
+          "number": 1,
+          "testimonies": [
+            27,
+            36,
+            49,
+            31,
+            7,
+            43,
+            33
+          ],
+          "solution": [
+            5,
+            7
+          ]
+        },
+        {
+          "number": 2,
+          "testimonies": [
+            2,
+            31,
+            7,
+            12,
+            28,
+            41,
+            44
+          ],
+          "solution": [
+            1,
+            7
+          ]
+        },
+        {
+          "number": 3,
+          "testimonies": [
+            38,
+            28,
+            24,
+            33,
+            21,
+            31,
+            1
+          ],
+          "solution": [
+            2,
+            5
+          ]
+        },
+        {
+          "number": 4,
+          "testimonies": [
+            34,
+            2,
+            27,
+            45,
+            37,
+            35,
+            11
+          ],
+          "solution": [
+            4,
+            6
+          ]
+        },
+        {
+          "number": 5,
+          "testimonies": [
+            2,
+            34,
+            41,
+            36,
+            7,
+            50,
+            35
+          ],
+          "solution": [
+            2,
+            6
+          ]
+        },
+        {
+          "number": 6,
+          "testimonies": [
+            41,
+            30,
+            39,
+            2,
+            28,
+            34,
+            29
+          ],
+          "solution": [
+            4,
+            5
+          ]
+        },
+        {
+          "number": 7,
+          "testimonies": [
+            34,
+            3,
+            12,
+            24,
+            1,
+            17,
+            7
+          ],
+          "solution": [
+            2,
+            3
+          ]
+        },
+        {
+          "number": 8,
+          "testimonies": [
+            27,
+            34,
+            21,
+            1,
+            45,
+            7,
+            26
+          ],
+          "solution": [
+            2,
+            7
+          ]
+        },
+        {
+          "number": 9,
+          "testimonies": [
+            22,
+            31,
+            38,
+            33,
+            46,
+            32,
+            7
+          ],
+          "solution": [
+            2,
+            6
+          ]
+        },
+        {
+          "number": 10,
+          "testimonies": [
+            20,
+            33,
+            8,
+            7,
+            30,
+            19,
+            35
+          ],
+          "solution": [
+            4,
+            5
+          ]
+        },
+        {
+          "number": 11,
+          "testimonies": [
+            23,
+            43,
+            19,
+            7,
+            8,
+            36,
+            31
+          ],
+          "solution": [
+            2,
+            3
+          ]
+        },
+        {
+          "number": 12,
+          "testimonies": [
+            36,
+            2,
+            6,
+            50,
+            11,
+            33,
+            30
+          ],
+          "solution": [
+            4,
+            5
+          ]
+        },
+        {
+          "number": 13,
+          "testimonies": [
+            28,
+            11,
+            44,
+            38,
+            22,
+            12,
+            34
+          ],
+          "solution": [
+            2,
+            4
+          ]
+        },
+        {
+          "number": 14,
+          "testimonies": [
+            25,
+            3,
+            18,
+            33,
+            1,
+            41,
+            10
+          ],
+          "solution": [
+            1,
+            4
+          ]
+        },
+        {
+          "number": 15,
+          "testimonies": [
+            2,
+            29,
+            38,
+            25,
+            33,
+            30,
+            47
+          ],
+          "solution": [
+            5,
+            6
+          ]
+        },
+        {
+          "number": 16,
+          "testimonies": [
+            9,
+            16,
+            32,
+            30,
+            38,
+            35,
+            44
+          ],
+          "solution": [
+            6,
+            7
+          ]
+        },
+        {
+          "number": 17,
+          "testimonies": [
+            21,
+            39,
+            30,
+            9,
+            35,
+            33,
+            3
+          ],
+          "solution": [
+            6,
+            7
+          ]
+        },
+        {
+          "number": 18,
+          "testimonies": [
+            38,
+            22,
+            2,
+            27,
+            41,
+            11,
+            34
+          ],
+          "solution": [
+            5,
+            7
+          ]
+        },
+        {
+          "number": 19,
+          "testimonies": [
+            34,
+            13,
+            29,
+            26,
+            27,
+            41,
+            8
+          ],
+          "solution": [
+            2,
+            4
+          ]
+        },
+        {
+          "number": 20,
+          "testimonies": [
+            29,
+            30,
+            6,
+            20,
+            2,
+            41,
+            11
+          ],
+          "solution": [
+            4,
+            5
+          ]
+        },
+        {
+          "number": 21,
+          "testimonies": [
+            32,
+            9,
+            29,
+            17,
+            22,
+            39,
+            28
+          ],
+          "solution": [
+            2,
+            6
+          ]
+        },
+        {
+          "number": 22,
+          "testimonies": [
+            13,
+            49,
+            12,
+            41,
+            33,
+            15,
+            18
+          ],
+          "solution": [
+            2,
+            5
+          ]
+        },
+        {
+          "number": 23,
+          "testimonies": [
+            28,
+            2,
+            5,
+            38,
+            41,
+            34,
+            27
+          ],
+          "solution": [
+            1,
+            2
+          ]
+        },
+        {
+          "number": 24,
+          "testimonies": [
+            20,
+            37,
+            8,
+            38,
+            28,
+            33,
+            45
+          ],
+          "solution": [
+            1,
+            4
+          ]
+        },
+        {
+          "number": 25,
+          "testimonies": [
+            34,
+            31,
+            3,
+            7,
+            28,
+            47,
+            20
+          ],
+          "solution": [
+            4,
+            5
+          ]
+        }
+      ]
+    },
+    {
+      "dossier": 18,
+      "suspects": 7,
+      "culpritCount": 2,
+      "statementType": "mensonges",
+      "statementCount": "1-2",
+      "times": [
+        4,
+        6,
+        12
+      ],
+      "cases": [
+        {
+          "number": 1,
+          "testimonies": [
+            33,
+            26,
+            21,
+            4,
+            41,
+            7,
+            45
+          ],
+          "solution": [
+            3,
+            4
+          ]
+        },
+        {
+          "number": 2,
+          "testimonies": [
+            36,
+            27,
+            43,
+            34,
+            17,
+            46,
+            13
+          ],
+          "solution": [
+            6,
+            7
+          ]
+        },
+        {
+          "number": 3,
+          "testimonies": [
+            28,
+            32,
+            38,
+            50,
+            19,
+            31,
+            17
+          ],
+          "solution": [
+            4,
+            6
+          ]
+        },
+        {
+          "number": 4,
+          "testimonies": [
+            42,
+            33,
+            36,
+            10,
+            26,
+            30,
+            37
+          ],
+          "solution": [
+            3,
+            5
+          ]
+        },
+        {
+          "number": 5,
+          "testimonies": [
+            27,
+            36,
+            12,
+            21,
+            20,
+            40,
+            47
+          ],
+          "solution": [
+            1,
+            6
+          ]
+        },
+        {
+          "number": 6,
+          "testimonies": [
+            24,
+            36,
+            21,
+            11,
+            41,
+            10,
+            33
+          ],
+          "solution": [
+            4,
+            5
+          ]
+        },
+        {
+          "number": 7,
+          "testimonies": [
+            41,
+            12,
+            3,
+            43,
+            28,
+            32,
+            18
+          ],
+          "solution": [
+            2,
+            3
+          ]
+        },
+        {
+          "number": 8,
+          "testimonies": [
+            29,
+            30,
+            43,
+            24,
+            36,
+            32,
+            12
+          ],
+          "solution": [
+            4,
+            7
+          ]
+        },
+        {
+          "number": 9,
+          "testimonies": [
+            35,
+            6,
+            24,
+            40,
+            29,
+            11,
+            47
+          ],
+          "solution": [
+            4,
+            7
+          ]
+        },
+        {
+          "number": 10,
+          "testimonies": [
+            6,
+            44,
+            24,
+            12,
+            29,
+            36,
+            43
+          ],
+          "solution": [
+            1,
+            5
+          ]
+        },
+        {
+          "number": 11,
+          "testimonies": [
+            6,
+            25,
+            8,
+            43,
+            32,
+            22,
+            19
+          ],
+          "solution": [
+            1,
+            2
+          ]
+        },
+        {
+          "number": 12,
+          "testimonies": [
+            45,
+            22,
+            42,
+            4,
+            36,
+            17,
+            30
+          ],
+          "solution": [
+            3,
+            6
+          ]
+        },
+        {
+          "number": 13,
+          "testimonies": [
+            6,
+            32,
+            5,
+            35,
+            50,
+            24,
+            20
+          ],
+          "solution": [
+            2,
+            5
+          ]
+        },
+        {
+          "number": 14,
+          "testimonies": [
+            44,
+            12,
+            50,
+            1,
+            34,
+            24,
+            28
+          ],
+          "solution": [
+            3,
+            7
+          ]
+        },
+        {
+          "number": 15,
+          "testimonies": [
+            4,
+            35,
+            45,
+            50,
+            22,
+            12,
+            27
+          ],
+          "solution": [
+            3,
+            6
+          ]
+        },
+        {
+          "number": 16,
+          "testimonies": [
+            21,
+            13,
+            23,
+            19,
+            49,
+            43,
+            24
+          ],
+          "solution": [
+            1,
+            6
+          ]
+        },
+        {
+          "number": 17,
+          "testimonies": [
+            38,
+            37,
+            26,
+            25,
+            21,
+            42,
+            19
+          ],
+          "solution": [
+            3,
+            7
+          ]
+        },
+        {
+          "number": 18,
+          "testimonies": [
+            4,
+            21,
+            40,
+            5,
+            45,
+            30,
+            19
+          ],
+          "solution": [
+            2,
+            3
+          ]
+        },
+        {
+          "number": 19,
+          "testimonies": [
+            29,
+            3,
+            18,
+            37,
+            49,
+            50,
+            22
+          ],
+          "solution": [
+            1,
+            7
+          ]
+        },
+        {
+          "number": 20,
+          "testimonies": [
+            25,
+            40,
+            12,
+            27,
+            47,
+            24,
+            11
+          ],
+          "solution": [
+            3,
+            4
+          ]
+        },
+        {
+          "number": 21,
+          "testimonies": [
+            11,
+            30,
+            33,
+            25,
+            17,
+            38,
+            41
+          ],
+          "solution": [
+            6,
+            7
+          ]
+        },
+        {
+          "number": 22,
+          "testimonies": [
+            17,
+            27,
+            31,
+            32,
+            42,
+            47,
+            3
+          ],
+          "solution": [
+            6,
+            7
+          ]
+        },
+        {
+          "number": 23,
+          "testimonies": [
+            18,
+            35,
+            36,
+            40,
+            41,
+            22,
+            13
+          ],
+          "solution": [
+            2,
+            6
+          ]
+        },
+        {
+          "number": 24,
+          "testimonies": [
+            41,
+            36,
+            38,
+            32,
+            20,
+            17,
+            5
+          ],
+          "solution": [
+            1,
+            5
+          ]
+        },
+        {
+          "number": 25,
+          "testimonies": [
+            21,
+            5,
+            24,
+            41,
+            10,
+            35,
+            45
+          ],
+          "solution": [
+            6,
+            7
+          ]
+        }
+      ]
+    },
+    {
+      "dossier": 19,
+      "suspects": 7,
+      "culpritCount": 3,
+      "statementType": "mensonges",
+      "statementCount": "3",
+      "times": [
+        4,
+        6,
+        12
+      ],
+      "cases": [
+        {
+          "number": 1,
+          "testimonies": [
+            37,
+            41,
+            34,
+            36,
+            28,
+            12,
+            39
+          ],
+          "solution": [
+            1,
+            4,
+            6
+          ]
+        },
+        {
+          "number": 2,
+          "testimonies": [
+            22,
+            12,
+            23,
+            32,
+            46,
+            20,
+            47
+          ],
+          "solution": [
+            1,
+            3,
+            6
+          ]
+        },
+        {
+          "number": 3,
+          "testimonies": [
+            2,
+            12,
+            41,
+            23,
+            34,
+            45,
+            30
+          ],
+          "solution": [
+            2,
+            4,
+            6
+          ]
+        },
+        {
+          "number": 4,
+          "testimonies": [
+            1,
+            43,
+            23,
+            16,
+            3,
+            32,
+            47
+          ],
+          "solution": [
+            1,
+            3,
+            6
+          ]
+        },
+        {
+          "number": 5,
+          "testimonies": [
+            30,
+            8,
+            14,
+            23,
+            33,
+            34,
+            41
+          ],
+          "solution": [
+            3,
+            6,
+            7
+          ]
+        },
+        {
+          "number": 6,
+          "testimonies": [
+            41,
+            26,
+            31,
+            36,
+            48,
+            34,
+            23
+          ],
+          "solution": [
+            1,
+            4,
+            6
+          ]
+        },
+        {
+          "number": 7,
+          "testimonies": [
+            29,
+            35,
+            13,
+            26,
+            36,
+            22,
+            42
+          ],
+          "solution": [
+            3,
+            6,
+            7
+          ]
+        },
+        {
+          "number": 8,
+          "testimonies": [
+            18,
+            30,
+            42,
+            34,
+            28,
+            11,
+            46
+          ],
+          "solution": [
+            1,
+            5,
+            7
+          ]
+        },
+        {
+          "number": 9,
+          "testimonies": [
+            10,
+            50,
+            41,
+            24,
+            29,
+            22,
+            27
+          ],
+          "solution": [
+            1,
+            3,
+            5
+          ]
+        },
+        {
+          "number": 10,
+          "testimonies": [
+            5,
+            22,
+            41,
+            17,
+            19,
+            35,
+            15
+          ],
+          "solution": [
+            4,
+            6,
+            7
+          ]
+        },
+        {
+          "number": 11,
+          "testimonies": [
+            23,
+            11,
+            26,
+            16,
+            42,
+            32,
+            20
+          ],
+          "solution": [
+            1,
+            4,
+            7
+          ]
+        },
+        {
+          "number": 12,
+          "testimonies": [
+            12,
+            21,
+            46,
+            35,
+            27,
+            39,
+            22
+          ],
+          "solution": [
+            2,
+            4,
+            6
+          ]
+        },
+        {
+          "number": 13,
+          "testimonies": [
+            18,
+            34,
+            33,
+            44,
+            8,
+            35,
+            49
+          ],
+          "solution": [
+            2,
+            4,
+            6
+          ]
+        },
+        {
+          "number": 14,
+          "testimonies": [
+            22,
+            32,
+            33,
+            35,
+            27,
+            48,
+            47
+          ],
+          "solution": [
+            1,
+            5,
+            7
+          ]
+        },
+        {
+          "number": 15,
+          "testimonies": [
+            35,
+            16,
+            41,
+            13,
+            31,
+            38,
+            25
+          ],
+          "solution": [
+            1,
+            2,
+            4
+          ]
+        },
+        {
+          "number": 16,
+          "testimonies": [
+            22,
+            33,
+            47,
+            32,
+            46,
+            14,
+            23
+          ],
+          "solution": [
+            2,
+            4,
+            6
+          ]
+        },
+        {
+          "number": 17,
+          "testimonies": [
+            16,
+            22,
+            13,
+            43,
+            36,
+            48,
+            37
+          ],
+          "solution": [
+            2,
+            3,
+            4
+          ]
+        },
+        {
+          "number": 18,
+          "testimonies": [
+            16,
+            23,
+            7,
+            45,
+            24,
+            39,
+            18
+          ],
+          "solution": [
+            1,
+            4,
+            6
+          ]
+        },
+        {
+          "number": 19,
+          "testimonies": [
+            10,
+            13,
+            33,
+            21,
+            28,
+            18,
+            41
+          ],
+          "solution": [
+            1,
+            2,
+            3
+          ]
+        },
+        {
+          "number": 20,
+          "testimonies": [
+            16,
+            30,
+            45,
+            50,
+            34,
+            33,
+            23
+          ],
+          "solution": [
+            1,
+            4,
+            6
+          ]
+        },
+        {
+          "number": 21,
+          "testimonies": [
+            23,
+            34,
+            8,
+            26,
+            50,
+            32,
+            41
+          ],
+          "solution": [
+            2,
+            6,
+            7
+          ]
+        },
+        {
+          "number": 22,
+          "testimonies": [
+            47,
+            18,
+            33,
+            35,
+            30,
+            49,
+            29
+          ],
+          "solution": [
+            3,
+            5,
+            7
+          ]
+        },
+        {
+          "number": 23,
+          "testimonies": [
+            35,
+            27,
+            2,
+            46,
+            45,
+            32,
+            20
+          ],
+          "solution": [
+            1,
+            3,
+            6
+          ]
+        },
+        {
+          "number": 24,
+          "testimonies": [
+            15,
+            25,
+            27,
+            47,
+            22,
+            41,
+            28
+          ],
+          "solution": [
+            3,
+            6,
+            7
+          ]
+        },
+        {
+          "number": 25,
+          "testimonies": [
+            22,
+            4,
+            10,
+            23,
+            20,
+            45,
+            33
+          ],
+          "solution": [
+            3,
+            6,
+            7
+          ]
+        }
+      ]
+    },
+    {
+      "dossier": 20,
+      "suspects": 7,
+      "culpritCount": 3,
+      "statementType": "verites",
+      "statementCount": "3-4",
+      "times": [
+        4,
+        6,
+        12
+      ],
+      "cases": [
+        {
+          "number": 1,
+          "testimonies": [
+            28,
+            33,
+            7,
+            34,
+            45,
+            46,
+            39
+          ],
+          "solution": [
+            2,
+            4,
+            6
+          ]
+        },
+        {
+          "number": 2,
+          "testimonies": [
+            35,
+            23,
+            43,
+            24,
+            39,
+            47,
+            15
+          ],
+          "solution": [
+            5,
+            6,
+            7
+          ]
+        },
+        {
+          "number": 3,
+          "testimonies": [
+            39,
+            30,
+            19,
+            35,
+            41,
+            44,
+            7
+          ],
+          "solution": [
+            2,
+            4,
+            5
+          ]
+        },
+        {
+          "number": 4,
+          "testimonies": [
+            30,
+            34,
+            23,
+            47,
+            38,
+            43,
+            33
+          ],
+          "solution": [
+            1,
+            2,
+            7
+          ]
+        },
+        {
+          "number": 5,
+          "testimonies": [
+            49,
+            36,
+            34,
+            39,
+            44,
+            35,
+            27
+          ],
+          "solution": [
+            5,
+            6,
+            7
+          ]
+        },
+        {
+          "number": 6,
+          "testimonies": [
+            30,
+            33,
+            34,
+            41,
+            29,
+            39,
+            47
+          ],
+          "solution": [
+            5,
+            6,
+            7
+          ]
+        },
+        {
+          "number": 7,
+          "testimonies": [
+            46,
+            37,
+            38,
+            24,
+            41,
+            8,
+            34
+          ],
+          "solution": [
+            2,
+            4,
+            6
+          ]
+        },
+        {
+          "number": 8,
+          "testimonies": [
+            44,
+            39,
+            18,
+            13,
+            41,
+            37,
+            33
+          ],
+          "solution": [
+            2,
+            3,
+            4
+          ]
+        },
+        {
+          "number": 9,
+          "testimonies": [
+            44,
+            27,
+            39,
+            33,
+            7,
+            48,
+            22
+          ],
+          "solution": [
+            3,
+            6,
+            7
+          ]
+        },
+        {
+          "number": 10,
+          "testimonies": [
+            38,
+            41,
+            35,
+            44,
+            11,
+            34,
+            33
+          ],
+          "solution": [
+            3,
+            6,
+            7
+          ]
+        },
+        {
+          "number": 11,
+          "testimonies": [
+            31,
+            39,
+            33,
+            30,
+            38,
+            45,
+            19
+          ],
+          "solution": [
+            2,
+            4,
+            7
+          ]
+        },
+        {
+          "number": 12,
+          "testimonies": [
+            39,
+            37,
+            41,
+            34,
+            32,
+            50,
+            36
+          ],
+          "solution": [
+            3,
+            4,
+            5
+          ]
+        },
+        {
+          "number": 13,
+          "testimonies": [
+            33,
+            44,
+            41,
+            38,
+            36,
+            25,
+            30
+          ],
+          "solution": [
+            3,
+            6,
+            7
+          ]
+        },
+        {
+          "number": 14,
+          "testimonies": [
+            44,
+            21,
+            33,
+            50,
+            34,
+            45,
+            30
+          ],
+          "solution": [
+            3,
+            4,
+            5
+          ]
+        },
+        {
+          "number": 15,
+          "testimonies": [
+            5,
+            32,
+            50,
+            39,
+            34,
+            30,
+            41
+          ],
+          "solution": [
+            1,
+            3,
+            4
+          ]
+        },
+        {
+          "number": 16,
+          "testimonies": [
+            48,
+            35,
+            38,
+            19,
+            41,
+            7,
+            30
+          ],
+          "solution": [
+            2,
+            4,
+            5
+          ]
+        },
+        {
+          "number": 17,
+          "testimonies": [
+            47,
+            46,
+            33,
+            23,
+            38,
+            34,
+            17
+          ],
+          "solution": [
+            2,
+            3,
+            6
+          ]
+        },
+        {
+          "number": 18,
+          "testimonies": [
+            43,
+            38,
+            30,
+            31,
+            28,
+            14,
+            41
+          ],
+          "solution": [
+            2,
+            4,
+            5
+          ]
+        },
+        {
+          "number": 19,
+          "testimonies": [
+            41,
+            50,
+            34,
+            31,
+            38,
+            19,
+            35
+          ],
+          "solution": [
+            2,
+            4,
+            6
+          ]
+        },
+        {
+          "number": 20,
+          "testimonies": [
+            27,
+            47,
+            38,
+            50,
+            32,
+            34,
+            7
+          ],
+          "solution": [
+            1,
+            6,
+            7
+          ]
+        },
+        {
+          "number": 21,
+          "testimonies": [
+            41,
+            23,
+            39,
+            7,
+            33,
+            43,
+            34
+          ],
+          "solution": [
+            3,
+            6,
+            7
+          ]
+        },
+        {
+          "number": 22,
+          "testimonies": [
+            39,
+            33,
+            34,
+            32,
+            8,
+            47,
+            46
+          ],
+          "solution": [
+            1,
+            3,
+            5
+          ]
+        },
+        {
+          "number": 23,
+          "testimonies": [
+            22,
+            41,
+            34,
+            33,
+            38,
+            45,
+            30
+          ],
+          "solution": [
+            3,
+            6,
+            7
+          ]
+        },
+        {
+          "number": 24,
+          "testimonies": [
+            39,
+            35,
+            21,
+            33,
+            31,
+            50,
+            44
+          ],
+          "solution": [
+            3,
+            4,
+            5
+          ]
+        },
+        {
+          "number": 25,
+          "testimonies": [
+            23,
+            12,
+            41,
+            48,
+            34,
+            45,
+            18
+          ],
+          "solution": [
+            1,
+            3,
+            6
+          ]
+        }
+      ]
+    }
+  ]
+}

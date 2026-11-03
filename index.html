@@ -1,0 +1,96 @@
+<!doctype html>
+<html lang="fr">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover" />
+        <meta name="theme-color" content="#d94a35" />
+        <title>Le coupable est… carnivore</title>
+        <link rel="manifest" href="manifest.webmanifest" />
+        <link rel="stylesheet" href="styles.css" />
+        <link rel="icon" href="assets/icon-192.png" />
+        <script defer src="app.js"></script>
+    </head>
+    <body>
+        <div id="app">
+            <header>
+                <button id="homeBtn" class="icon-btn" aria-label="Accueil" data-i18n-label="home">⌂</button
+                ><strong><span class="brand-prefix" data-i18n="brandPrefix">LE COUPABLE EST…</span> <span data-i18n="brandSuffix">CARNIVORE</span></strong
+                ><div class="header-tools">
+                    <details id="languageMenu" class="language-menu">
+                        <summary id="language" class="icon-btn" aria-label="Langue : Français" title="Langue : Français">
+                            <img id="languageFlag" src="assets/flag-fr.svg" alt="" width="26" height="18">
+                        </summary>
+                        <fieldset class="language-options" aria-label="Langue" data-i18n-label="language">
+                            <button type="button" data-language="fr" aria-label="Français" title="Français" aria-pressed="true"><img src="assets/flag-fr.svg" alt="" width="26" height="18"></button>
+                            <button type="button" data-language="en" aria-label="English" title="English" aria-pressed="false"><img src="assets/flag-en.svg" alt="" width="26" height="18"></button>
+                        </fieldset>
+                    </details>
+                    <button id="helpBtn" class="icon-btn" aria-label="Aide" data-i18n-label="help">?</button>
+                </div>
+            </header>
+            <main id="screen" aria-live="polite"></main>
+        </div>
+        <dialog id="help">
+            <button id="closeHelp" class="close" aria-label="Fermer" data-i18n-label="close">×</button>
+            <div id="helpContent">
+            <h2>Précisions sur les témoignages</h2>
+            <p>Les précisions suivantes ne seront pas forcément utiles pour vos premières
+parties. Néanmoins, en cas de doute sur les formulations des Témoignages,
+référez-vous toujours à cette page</p>
+            <h3>TÉMOIGNAGES INCLUANT « ET » et « OU »</h3>
+            <ul>
+                <li>« Le Cheval et l’Ours mentent » est faux dès qu’au moins un des deux dit la vérité.</li>
+                <li>
+                    « La Panthère ou le Paon, ou les deux, sont coupables » n’est faux que si les deux sont innocents.
+                </li>
+            </ul>
+            <h3>TÉMOIGNAGES COMPARATIFS</h3>
+            <p>
+                « Quelqu’un plus grand que moi est coupable » est faux si le Suspect qui témoigne est en réalité le Coupable (et qu’il n’y a qu’un seul Coupable).
+            </p>
+            <h3>AFFAIRES AVEC PLUSIEURS COUPABLES</h3>
+            <p>
+                Certains Témoignages peuvent ne faire référence <strong>qu’à l’un des Coupables</strong>
+et être tout de même vrais :
+                <ul>
+                <li>« Un herbivore est coupable » est vrai si <strong>au moins l’un</strong> des Coupables
+est un herbivore. En théorie, tous les herbivores pourraient quand même
+être coupables. Mais si cette carte est vraie, tout ce que l’on sait, c’est
+qu’au moins l’un d’eux l’est.</li>
+                <li>« Un herbivore est coupable » est faux si <strong>aucun</strong> des Coupables n’est
+herbivore.</li>
+                </ul>
+            </p>
+            <h3>TÉMOIGNAGES AVEC « UN », « DEUX » et « TROIS »</h3>
+            <p>
+                Toute indication chiffrée n’indique pas le nombre exact ou maximal.
+Comme vu précédemment, « un » est indéfini et non un chiffre précis, ainsi :
+<ul>
+                <li>« <strong>Un</strong> carnivore est coupable » ne signifie pas qu’un seul carnivore est
+coupable. Ce témoignage n’est donc pas faux si deux carnivores sont
+coupables (au moins l’un d’eux l’est).</li>
+                <li>« <strong>Deux</strong> coupables mentent » n’exclut pas la possibilité qu’un troisième
+coupable mente. Mais ce Témoignage est faux si un seul coupable ment.</li>
+                <li>« <strong>Trois</strong> suspects adjacents sont innocents » est vrai même si quatre
+suspects adjacents sont innocents.</li>
+            </ul>
+            </p>
+            <h3>TÉMOIGNAGES SUR LES SUSPECTS ADJACENTS</h3>
+            <p>
+                Certains Témoignages peuvent se référer aux 2 Suspects adjacents à celui
+qui témoigne (« Un suspect à côté de moi est coupable »).<br/>
+Dans une affaire comportant 4 Suspects, le Suspect 1 (la Panthère) est considéré comme étant à côté du Suspect 2 (le Paon) et du Suspect 4 (l’Iguane).<br/>
+« Trois suspects adjacents sont innocents » : ce Témoignage n’inclut pas forcément le suspect qui parle dans les suspects adjacents.
+            </p>
+            </div>
+        </dialog>
+        <dialog id="quit" aria-labelledby="quitTitle" aria-describedby="quitDescription">
+            <h2 id="quitTitle" data-i18n="quitTitle">Êtes-vous sûr de quitter le jeu ?</h2>
+            <p id="quitDescription" data-i18n="quitDescription">Votre progression sera conservée. Vous pourrez reprendre cette affaire.</p>
+            <div class="actions">
+                <button id="stay" class="primary" data-i18n="stay" autofocus>Continuer l’affaire</button>
+                <button id="leave" class="secondary" data-i18n="leave">Quitter</button>
+            </div>
+        </dialog>
+    </body>
+</html>
