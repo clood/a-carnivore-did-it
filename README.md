@@ -48,8 +48,13 @@ Copier le contenu du dossier sur un hébergement HTTPS statique, par exemple Git
 3. Changer le nom `CACHE` dans `sw.js`, par exemple `carnivore-v1.0.1`.
 4. Redéployer. Au lancement avec réseau, l'application détecte la version et recharge silencieusement.
 
-## Qualité des données
-`data-quality-report.json` liste les cellules exclues parce que la liste de témoignages ne correspond pas au nombre de suspects ou contient un numéro hors de 1 à 50. L'ordre des témoignages est conservé.
+## Données sources
+Les données sont issues de scan et de données de réponse de l'éditeur. 
+/!\ L'éditeur a publié un errata sur les premières éditions.
+Seules les 25 premières affaires ont été scannées, il peut y avoir des erreurs, les affaires sont accessibles et modifiables sur
+
+[sheet a_carnivore_did_it](https://docs.google.com/spreadsheets/d/12a2PZKdxw25PNHDg6NR68y-tUDkBhznA/edit?usp=drivesdk&ouid=101878875319326491532&rtpof=true&sd=true)
+
 
 ## Droit d'utilisation
 Les illustrations et marques restent la propriété de leurs ayants droit. Vérifier les autorisations avant toute diffusion publique.
