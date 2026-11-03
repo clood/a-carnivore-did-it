@@ -6018,8 +6018,8 @@
       "dossier": 18,
       "suspects": 7,
       "culpritCount": 2,
-      "statementType": "mensonges",
-      "statementCount": "1-2",
+      "statementType": "verites",
+      "statementCount": "3",
       "times": [
         4,
         6,
