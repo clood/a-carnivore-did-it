@@ -1,5 +1,5 @@
 {
-  "version": "4.0.0",
+  "version": "4.0.1",
   "levels": [
     {
       "dossier": 1,
@@ -6018,8 +6018,8 @@
       "dossier": 18,
       "suspects": 7,
       "culpritCount": 2,
-      "statementType": "verites",
-      "statementCount": "3",
+      "statementType": "mensonges",
+      "statementCount": "1-2",
       "times": [
         4,
         6,
